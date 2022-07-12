@@ -22,6 +22,9 @@ Designed and developed a watchOS app which records a patient’s arm movement da
 
 Designed and developed Soba Supreme sells Japanese buckwheat soba noodle products online using WordPress, WooCommerce and various plugins. https://sobasupreme.com (Closed as of June 2022)
 
+https://www.youtube.com/watch?v=fjUsVsgVnaI
+
+
 ## Personal Projects
 ### CoronaCast
 ![coronacast 180](https://user-images.githubusercontent.com/25876806/177672407-b49f3fed-0586-4d49-93cc-ac91c054b0d3.png)
@@ -32,19 +35,19 @@ feed via RapidAPI site
 • GET JSON data as Codable
 • CloudKit Push Notifications and badge number update
 • Accessing CloudKit records
-Description: https://beckos.com/?p=1633 YouTube: https://youtu.be/ GD_XEAn4UqA
+YouTube: https://youtu.be/GD_XEAn4UqA
 
 ### Mind Tracer
 ![image](https://user-images.githubusercontent.com/25876806/177672186-dc5cd77f-3227-4fe0-991c-d674b6b261eb.png)
 
 Designed and developed Mind Tracer, an app that records and traces your state of mind, using Core Data, Core Location, MapKit, iOS Charts API with CocoaPod, Localization (Japanese)
-App Store: https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1 Description: https://beckos.com/?p=1149
+App Store: https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1
 
 ### Poli ToDo version 3
 ![image](https://user-images.githubusercontent.com/25876806/177672231-420163df-fcc6-4d45-8bf8-8fead0f33741.png)
 
 Updated from version 2 newly implementing Core Data iCloud sync, iCloud sync data conversion for version 2 existing data, MacOS Catalyst, UISearchController to search tasks, Task repeat, Added Tomorrow’s task list, improved UI workflows, and bug fixes
-App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111 Description: https://beckos.com/?p=1550
+App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111
                 
 ### Haiku Disrupted
 ![image](https://user-images.githubusercontent.com/25876806/177672242-f01d90cc-b420-4612-86aa-8c80f10ae20f.png)
@@ -52,12 +55,12 @@ App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111 Description: ht
 Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsController with Core Data, text-to-speech, text-to-image, and UIActiveShareController
 App Store: https://itunes.apple.com/app/id1458838972
 Preview#1 at YouTube https://youtu.be/ClAEsbLREc0
-Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs Description: https://beckos.com/?p=1131
+Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs
 
 ### Poli ToDo version 2
 ![image](https://user-images.githubusercontent.com/25876806/177672258-db2c542c-5da0-4e44-81d4-40057edd9051.png)
 
-Updated from version 1, newly implementing Core Data NSFetchedResultsController, data migration, EvenKit, Share Extension App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111 Description: http://beckos.com/?p=1405
+Updated from version 1, newly implementing Core Data NSFetchedResultsController, data migration, EvenKit, Share Extension App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111
 
 ### Poli ToDo version 1
 ![image](https://user-images.githubusercontent.com/25876806/177672271-8b733585-c517-41cf-9272-0562d059754a.png)
