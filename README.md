@@ -2,7 +2,7 @@
 ## Tatsuya "Brian" Moriguchi
 - Irvine, California U.S.A.
 - iOS Developer with software localization, QA, technical support, management, and business background
-- Strong interest in medical/healthcare, energy, environment, agriculture, fishery, landscape, supply chain, logistics, manufacturing, and construction (Social Infrastructure) industries or AI technology company making direct impact on existing businesses
+- Strong interest in medical/healthcare, eCommerce, energy, environment, agriculture, fishery, landscape, supply chain, logistics, manufacturing, and construction (Social Infrastructure) industries or AI technology company making direct impact on existing businesses
 - Interested in app development pairing with external devices, vehicles, or facility.
 - Looking for a collaborative team environment
 
