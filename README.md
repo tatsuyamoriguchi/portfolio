@@ -9,8 +9,8 @@
 ### Tech Stack:
 Xcode, Swift 3-5, iOS, MacOS, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, watchOS, Core Data, Core Location, Core Motion
 ### Links
-Github: <a href="url">https://github.com/tatsuyamoriguchi</a>
-LinkedIn: <a href="url">https://linkedin.com/in/sigabrt</a>
+Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
+LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 
 
 
@@ -51,21 +51,21 @@ YouTube: https://youtu.be/GD_XEAn4UqA
 ![image](https://user-images.githubusercontent.com/25876806/177672186-dc5cd77f-3227-4fe0-991c-d674b6b261eb.png)
 
 Designed and developed Mind Tracer, an app that records and traces your state of mind, using Core Data, Core Location, MapKit, iOS Charts API with CocoaPod, Localization (Japanese)
-- App Store: <a href="url">https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1</a>
+- App Store: <a href="https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1">https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1</a>
 
 
 ### Poli ToDo version 3
 ![image](https://user-images.githubusercontent.com/25876806/177672231-420163df-fcc6-4d45-8bf8-8fead0f33741.png)
 
 Updated from version 2 newly implementing Core Data iCloud sync, iCloud sync data conversion for version 2 existing data, MacOS Catalyst, UISearchController to search tasks, Task repeat, Added Tomorrow’s task list, improved UI workflows, and bug fixes
-- App Store: <a href="url">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
+- App Store: <a href="http://itunes.apple.com/us/app/poli-todo/id1451371111">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
                 
 
 ### Haiku Disrupted
 ![image](https://user-images.githubusercontent.com/25876806/177672242-f01d90cc-b420-4612-86aa-8c80f10ae20f.png)
 
 Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsController with Core Data, text-to-speech, text-to-image, and UIActiveShareController
-- App Store: <a href="url">https://itunes.apple.com/app/id1458838972</a>
+- App Store: <a href="https://itunes.apple.com/app/id1458838972">https://itunes.apple.com/app/id1458838972</a>
 - Preview#1 at YouTube https://youtu.be/ClAEsbLREc0
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClAEsbLREc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,26 +76,26 @@ Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsCo
 ![image](https://user-images.githubusercontent.com/25876806/177672258-db2c542c-5da0-4e44-81d4-40057edd9051.png)
 
 Updated from version 1, newly implementing Core Data NSFetchedResultsController, data migration, EvenKit, Share Extension 
-- App Store: <a href="url">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
+- App Store: <a href="http://itunes.apple.com/us/app/poli-todo/id1451371111">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
 
 
 ### Poli ToDo version 1
 ![image](https://user-images.githubusercontent.com/25876806/177672271-8b733585-c517-41cf-9272-0562d059754a.png)
 
 Designed and developed a ToDo app, using Core Data, Localization (Japanese) 
-- App Store: <a href="url">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
+- App Store: <a href="http://itunes.apple.com/us/app/poli-todo/id1451371111">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
 - YouTube video: https://youtu.be/KneZEZ1rJWY
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KneZEZ1rJWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Sample Apps
-1. <a href="url">https://github.com/tatsuyamoriguchi/JPM</a>
+1. <a href="https://github.com/tatsuyamoriguchi/JPM">https://github.com/tatsuyamoriguchi/JPM</a>
 Shows a list of New York City schools by neighborhood. A map dynamically shows a school location with nearby subway station and bus stop information (tap a pin). Tap the school name in light blue, which opens another view of school details. Used REST API JSON decode with extra Core Location and MapKit twists
 
 
-2. <a href="url">https://github.com/tatsuyamoriguchi/RM_REST_POST</a>
+2. <a href="https://github.com/tatsuyamoriguchi/RM_REST_POST">https://github.com/tatsuyamoriguchi/RM_REST_POST</a>
 Shows sports news headers by date. Tap a news headline, which opens another view (mock up detail view per interviewer’s request) Used REST API JSON decode with extra text2voice
 
 
-3. <a href="url">https://github.com/tatsuyamoriguchi/CBoost</a>
+3. <a href="https://github.com/tatsuyamoriguchi/CBoost">https://github.com/tatsuyamoriguchi/CBoost</a>
 AdTech SDK integration to a sample app. Press Cache button first, then press Show button to display image ad and video.
