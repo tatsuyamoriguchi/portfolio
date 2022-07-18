@@ -66,8 +66,10 @@ Updated from version 2 newly implementing Core Data iCloud sync, iCloud sync dat
 Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsController with Core Data, text-to-speech, text-to-image, and UIActiveShareController
 - App Store: https://itunes.apple.com/app/id1458838972
 - Preview#1 at YouTube https://youtu.be/ClAEsbLREc0
-- Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClAEsbLREc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs
+<iframe width="560" height="315" src="https://youtu.be/R1RMEBK_uSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Poli ToDo version 2
 ![image](https://user-images.githubusercontent.com/25876806/177672258-db2c542c-5da0-4e44-81d4-40057edd9051.png)
