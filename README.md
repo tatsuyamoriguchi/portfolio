@@ -69,7 +69,7 @@ Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsCo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClAEsbLREc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs
-<iframe width="560" height="315" src="https://youtu.be/R1RMEBK_uSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1RMEBK_uSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Poli ToDo version 2
 ![image](https://user-images.githubusercontent.com/25876806/177672258-db2c542c-5da0-4e44-81d4-40057edd9051.png)
@@ -84,7 +84,7 @@ Updated from version 1, newly implementing Core Data NSFetchedResultsController,
 Designed and developed a ToDo app, using Core Data, Localization (Japanese) 
 - App Store: http://itunes.apple.com/us/app/poli-todo/id1451371111
 - YouTube video: https://youtu.be/KneZEZ1rJWY
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KneZEZ1rJWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Sample Apps
