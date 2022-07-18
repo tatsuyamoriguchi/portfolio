@@ -26,6 +26,7 @@ Designed and developed a watchOS app which records a patient’s arm movement da
 Designed and developed Soba Supreme sells Japanese buckwheat soba noodle products online using WordPress, WooCommerce and various plugins. https://sobasupreme.com (Closed as of June 2022)
 
 - Screen record of sobasupreme.com: https://www.youtube.com/watch?v=fjUsVsgVnaI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fjUsVsgVnaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
