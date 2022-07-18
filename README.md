@@ -93,9 +93,9 @@ Designed and developed a ToDo app, using Core Data, Localization (Japanese)
 Shows a list of New York City schools by neighborhood. A map dynamically shows a school location with nearby subway station and bus stop information (tap a pin). Tap the school name in light blue, which opens another view of school details. Used REST API JSON decode with extra Core Location and MapKit twists
 
 
-2. https://github.com/tatsuyamoriguchi/RM_REST_POST 
+2. <link>https://github.com/tatsuyamoriguchi/RM_REST_POST</link>
 Shows sports news headers by date. Tap a news headline, which opens another view (mock up detail view per interviewer’s request) Used REST API JSON decode with extra text2voice
 
 
-3. https://github.com/tatsuyamoriguchi/CBoost 
+3. <link>https://github.com/tatsuyamoriguchi/CBoost</link>
 AdTech SDK integration to a sample app. Press Cache button first, then press Show button to display image ad and video.
