@@ -89,7 +89,7 @@ Designed and developed a ToDo app, using Core Data, Localization (Japanese)
 
 
 ## Sample Apps
-1. https://github.com/tatsuyamoriguchi/JPM 
+1. <link>https://github.com/tatsuyamoriguchi/JPM</link>
 Shows a list of New York City schools by neighborhood. A map dynamically shows a school location with nearby subway station and bus stop information (tap a pin). Tap the school name in light blue, which opens another view of school details. Used REST API JSON decode with extra Core Location and MapKit twists
 
 
