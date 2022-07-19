@@ -4,11 +4,12 @@
 
 Tatsuya "Brian" Moriguchi
 
-
 ## Unit Test
 * <a href="https://youtu.be/F5aDfGNdsac" target="_blank">Getting Started With Unit Testing in Swift (XCTest, Test Cases, Code Coverage)</a> July 12, 2022
+
 ## UI Test
 * <a href="https://youtu.be/rmKbsQ41wVY" target="_blank">UITesting iOS Tutorial</a> July 12, 2022
+
 ## Test Scenarios and Test Cases
 * <a href="https://crediblesoft.com/how-to-test-mobile-app-guide-tutorial/" target="_blank">Mobile App Testing Scenarios & Test Cases</a> July 14, 2022
 * <a href="https://www.guru99.com/testing-mobile-apps.html" target="_blank">Mobile Apps Testing: Sample Test Cases & Test Scenarios</a> July 14, 2022
