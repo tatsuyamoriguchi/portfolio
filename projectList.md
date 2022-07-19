@@ -16,8 +16,5 @@ Tatsuya "Brian" Moriguchi
 * <a href="https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM" target="_blank">How to get started with Circle CI</a> July 12, 2022
 
 ## TDD & BDD
-
-
-
-
+* <a href="https://youtu.be/mT8QDNNhExg" target="_blank">BDD vs TDD (explained)</a> July 14, 2022
 
