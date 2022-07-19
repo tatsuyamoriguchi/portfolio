@@ -1,19 +1,4 @@
 theme: jekyll-theme-slate
 title: Tatsuya's Portfolio???
 description: Looking for an iOS developer/Mobile App QA Engineer job opportunity to join a collaborative team environment
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  
-social-network-links:
-  email: "j0653arch@gmail.com"
-  linkedin: sigabrt
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-  
+email: j0653arch@gmail.com
