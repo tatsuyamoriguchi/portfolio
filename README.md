@@ -1,5 +1,5 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
-Go to <a href="./projectList.html">Mobile App QA Engineering</a>
+
 
 <a href="https://tatsuyamoriguchi.github.io/portfolio/">https://tatsuyamoriguchi.github.io/portfolio/</a>
 ## Tatsuya "Brian" Moriguchi
