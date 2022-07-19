@@ -1,4 +1,6 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
+Go to <a href="./projectList.md">Project List</a>
+
 <a href="https://tatsuyamoriguchi.github.io/portfolio/">https://tatsuyamoriguchi.github.io/portfolio/</a>
 ## Tatsuya "Brian" Moriguchi
 - Irvine, California U.S.A.
