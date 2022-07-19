@@ -1,7 +1,10 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 
+* <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page https://tatsuyamoriguchi.github.io/portfolio/</a> You're here.
+* <a href="./projectList.md">Go to Mobile App QA Engineering Page</a>
+* Go to iOS Engineering Page (Under Construction)
+* Go to Documentation, Presentation, Agile, Team Work Page (Under Construction)
 
-<a href="https://tatsuyamoriguchi.github.io/portfolio/">https://tatsuyamoriguchi.github.io/portfolio/</a>
 ## Tatsuya "Brian" Moriguchi
 - Irvine, California U.S.A.
 - iOS Developer with software localization, QA, technical support, management, and business background
