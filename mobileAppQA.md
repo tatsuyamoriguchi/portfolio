@@ -1,5 +1,5 @@
 < Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
-# Mobile App QA Engineering 
+# Mobile App QA Engineering Topics
 (Projects/Topics done or to be done)
 
 Tatsuya "Brian" Moriguchi
