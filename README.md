@@ -11,14 +11,11 @@
 - Strong interest in health/wellness, medical/healthcare, eCommerce, energy, environment, agriculture, fishery, landscape, supply chain, logistics, manufacturing, and construction (Social Infrastructure) industries or AI technology company making direct impact on existing businesses
 - Interested in app development pairing with external devices, vehicles, or facility.
 - Looking for a collaborative team environment
+- Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
+- LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 
 ### Tech Stack:
-Xcode, Swift 3-5, iOS, MacOS, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, watchOS, Core Data, Core Location, Core Motion
-### Links
-Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
-LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
-
-
+Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion
 
 ## Projects
 ### KELVIN-ADL PilotProject
