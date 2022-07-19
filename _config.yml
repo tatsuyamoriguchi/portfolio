@@ -1,9 +1,4 @@
 theme: jekyll-theme-slate
-title: Brian's Portfolio and Topics Learned
-author:
-  name: Tatsuya "Brian" Moriguchi
-  email: j0653arch@gmail.com
+title: Brian's Portfolio
 description: Looking for an iOS developer/Mobile App QA Engineer job opportunity to join a collaborative team environment
-minima:
-  social_links:
-    linkedin_username: sigabrt
+linkedin_username: sigabrt
