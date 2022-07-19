@@ -2,8 +2,8 @@
 
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page https://tatsuyamoriguchi.github.io/portfolio/</a> You're here.
 * [Go to Mobile App QA Engineering Page](mobileAppQA.md)
-* [Go to iOS Engineering Page (Under Construction)]
-* [Go to Documentation, Presentation, Agile, Team Work Page (Under Construction)]
+* [Go to iOS Engineering Page]
+* [Go to Documentation, Presentation, Agile, Team Work Page]
 
 ## Tatsuya "Brian" Moriguchi
 - Irvine, California U.S.A.
