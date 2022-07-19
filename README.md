@@ -1,6 +1,6 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 
-* <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page https://tatsuyamoriguchi.github.io/portfolio/</a> You're here.
+* <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page</a> You're here.
 * [Go to Mobile App QA Engineering Page](mobileAppQA.md)
 * [Go to iOS Engineering Page]
 * [Go to Documentation, Presentation, Agile, Team Work Page]
