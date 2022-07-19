@@ -1,7 +1,7 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page https://tatsuyamoriguchi.github.io/portfolio/</a> You're here.
-* [Basic Penetration CTF](mobileAppQA.md)
+* [Go to Mobile App QA Engineering Page](mobileAppQA.md)
 * <a href="./mobileAppQA.md">Go to Mobile App QA Engineering Page</a>
 * Go to iOS Engineering Page (Under Construction)
 * Go to Documentation, Presentation, Agile, Team Work Page (Under Construction)
