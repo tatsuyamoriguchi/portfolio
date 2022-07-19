@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 < Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 # Mobile App QA Engineering 
 (Projects/Topics done or to be done)
