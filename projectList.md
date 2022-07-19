@@ -1,6 +1,6 @@
 <html><body>
 
-  <h1>Mobile App QA Engineering</h1> (Projects/Topics done or to be done)
+<h1>Mobile App QA Engineering</h1> (Projects/Topics done or to be done)
 Tatsuya "Brian" Moriguchi
 
 < Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
