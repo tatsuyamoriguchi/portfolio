@@ -1,7 +1,7 @@
 # iOS and Swift
 A partial list of iOS and Swift projects done or topics learned
 
-< <a href="portfolio.md">Back to Portfolio Page</a>
+[Back to Portfolio Page](portfolio.md)
 
 ## CS/Swift Fundamentals
 
