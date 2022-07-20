@@ -2,7 +2,7 @@
 
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page</a> You're here.
 * [Go to Mobile App QA Engineering Topics](mobileAppQA.md)
-* [Go to iOS adn Swift Page](iOSandSwift.md)
+* [Go to iOS and Swift Page](iOSandSwift.md)
 * [Go to Documentation, Presentation, Agile, Team Work Page]
 
 ## Tatsuya "Brian" Moriguchi
