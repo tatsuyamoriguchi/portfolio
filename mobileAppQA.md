@@ -5,6 +5,13 @@
 Tatsuya "Brian" Moriguchi
 
 ## Unit Test
+* <a href="https://x-team.com/blog/how-to-get-started-with-ios-unit-tests-in-swift/">HOW TO GET STARTED WITH IOS UNIT TESTS IN SWIFT</a> July 19, 2022
+1. How to setup your Xcode project to support unit tests.
+2. How to make your app code available for unit testing (@testable import yourApp)
+3. How to create individual unit test cases.
+4. How to write a basic iOS Unit test.
+5. How awesome it is to be protected from regressions.
+
 * <a href="https://youtu.be/F5aDfGNdsac" target="_blank">Getting Started With Unit Testing in Swift (XCTest, Test Cases, Code Coverage)</a> July 12, 2022
 
 ## UI Test
