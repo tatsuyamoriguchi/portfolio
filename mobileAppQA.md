@@ -28,6 +28,18 @@ Tatsuya "Brian" Moriguchi
   *  Docker is a containerized virtual environment that makes it easy to develop, maintain, and deploy apps and services.
   *  Start with accessing DockerHub, online cloud repository of Docker containers.
   *  Dockerfile, which can be built in a DockerImage, which can be run as a Docker Container
+* <a href="https://stackshare.io/stackups/appium-vs-circleci">Appium vs CircleCI: What are the differences?</a> July 21, 2022
+  *  Appium: classified as "Mobile Testing Frameworks", Automation for iOS and Android Apps. Appium is an open source test automation framework for use with native, hybrid, and mobile web apps. It drives iOS and Android apps using the WebDriver protocol. Appium is sponsored by Sauce Labs and a thriving community of open source developers
+  *  CircleCI: classified as "Continuous Integration" tools, Automate your development process quickly, safely, and at scale. Continuous integration and delivery platform helps software teams rapidly release code with confidence by automating the build, test, and deploy process. Offers a modern software development platform that lets teams ramp.
+  *  Features offered by Appium are: 
+     *  Works on native and hybrid mobile apps
+     *  Write mobile tests using any language or framework
+     *  Open source
+  * Features offered by CircleCI:
+     * Language-Inclusive Support
+     * Custom Environments
+     * Flexible Resource Allocation
+     * "Webdriverio support" is the primary reason why developers consider Appium over the competitors, whereas "Github integration" was stated as the key factor in picking CircleCI.
 * <a href="https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM" target="_blank">How to get started with Circle CI</a> July 12, 2022
 
 ## TDD & BDD
