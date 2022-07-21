@@ -24,6 +24,22 @@ Tatsuya "Brian" Moriguchi
 * <a href="https://www.testrigtechnologies.com/25-test-scenarios-for-mobile-app-testing/" target="_blank">The Top 25 test Scenarios for Mobile Applicaiton Testing in 2022</a> July 14, 2022
 
 ## CI/CO
+* <a href="https://www.youtube.com/watch?v=vTsKCEZA5Eo">Automate iOS Deployment to App Store Test Flight Using **Fastlane**</a> July 21, 2022
+  *  May become tedious to manually build your app by opening Xcode, select Generic for a deice type, set a version number, run Archive, and open a web browser to upload the build to App Store Connect and TestFlight.
+  *  <a href="https://fastlane.tools">Fastlane</a> is a commandline tool to automate to build and release mobile apps.
+  *  To install, type '% brew install fastlane' using a homebrew package manager for Mac.
+  *  To set up fastlane, go to your project directory in Terminal, type '% fastlane init'
+  *  Select one:
+     * Automate Screenshots
+     * Automate beta distribution to TestFlight
+     * Automate App Store distribution
+     * Manual setup to automate your tasks
+  *  Type your Apple ID and password, then Apple ID verification code.
+  *  Open Fastfile to see the automation script.
+  *  Go to your app directory in Terminal, type '% fastlane beta'
+  *  If Tranporter Error occures, create App specific password. Go to appleid.apple.com, find "APP-SPECIFIC PASSWORDS" and click "Generate password...", type a password label then click 'Create' to auto-generate a passowrd.
+  *  Go back to Terminal and paste the password and hit an Enter key.
+  *  Access App Store Connect page if the upload was successful.
 * <a href="https://www.youtube.com/watch?v=_dfLOzuIg2o">What is Docker?</a> July 21, 2022
   *  Docker is a containerized virtual environment that makes it easy to develop, maintain, and deploy apps and services.
   *  Start with accessing DockerHub, online cloud repository of Docker containers.
