@@ -24,6 +24,10 @@ Tatsuya "Brian" Moriguchi
 * <a href="https://www.testrigtechnologies.com/25-test-scenarios-for-mobile-app-testing/" target="_blank">The Top 25 test Scenarios for Mobile Applicaiton Testing in 2022</a> July 14, 2022
 
 ## CI/CO
+* <a href="https://www.youtube.com/watch?v=_dfLOzuIg2o">What is Docker?</a> July 21, 2022
+  *  Docker is a containerized virtual environment that makes it easy to develop, maintain, and deploy apps and services.
+  *  Start with accessing DockerHub, online cloud repository of Docker containers.
+  *  Dockerfile, which can be built in a DockerImage, which can be run as a Docker Container
 * <a href="https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM" target="_blank">How to get started with Circle CI</a> July 12, 2022
 
 ## TDD & BDD
