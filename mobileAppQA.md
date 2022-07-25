@@ -39,6 +39,28 @@ Non-Functional Testing: Confirms the code is doing it in the right way, properti
 ### <a href="https://testlio.com/blog/9-mobile-app-test-cases/" target="_blank">9 Mobile App Test Cases</a> July 14, 2022
 ### <a href="https://www.testrigtechnologies.com/25-test-scenarios-for-mobile-app-testing/" target="_blank">The Top 25 test Scenarios for Mobile Applicaiton Testing in 2022</a> July 14, 2022
 
+## JIRA Bug Tracking
+### <a href="https://www.youtube.com/watch?v=IFE8n6fhfRA">jira Bug Tracking Tool Tutorial for Agile 🕷 Jira Bug Life Cycle</a> July 25, 2022
+* Iteration Goal
+* Backlog Items
+* To Do
+* In Progress
+* Done
+
+* Create a sub-task.
+* Enter and update an estimated time in Log Work
+* Check Scrum Board to monitor tasks for next daily standup.
+* Check Burndown Chart.
+
+* Create an issue
+* Fill Title, Description
+* Story points
+* Steps to recreate/replicate
+* Acceptance Criteria
+* Environment
+* Workaround
+
+
 ## CI/CO
 ### <a href="https://www.youtube.com/watch?v=VGVw8fnc5YY">iOS Continuous Integration Setup with CircleCI</a> July 24, 2022
 How do multiple developers work together on the same Xcode project?
