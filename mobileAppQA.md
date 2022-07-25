@@ -4,6 +4,22 @@
 
 Tatsuya "Brian" Moriguchi
 
+## Types of Test
+### <a href="https://youtu.be/NgQT7miTP9M">Testing basics | Functional vs non-functional by Circle CI</a> July 25, 2022
+Functional Testing: Confirms the code is doing the right thing, sets of specifications, no work-around
+Non-Functional Testing: Confirms the code is doing it in the right way, properties that contributes the end user's experiences
+
+
+| Hieralchy of Testing |
+| ------------- |
+| 6. Manual & Exploratory Tests |
+| 5. Automated GUI Tests |
+| 4. Acceptance Tests |
+| 3. Integration Tests |
+| 2. Component Tests |
+| 1. Unit Tests |
+
+
 ## Unit Test
 ### <a href="https://x-team.com/blog/how-to-get-started-with-ios-unit-tests-in-swift/">HOW TO GET STARTED WITH IOS UNIT TESTS IN SWIFT</a> July 19, 2022
 1. How to setup your Xcode project to support unit tests.
@@ -24,7 +40,7 @@ Tatsuya "Brian" Moriguchi
 ### <a href="https://www.testrigtechnologies.com/25-test-scenarios-for-mobile-app-testing/" target="_blank">The Top 25 test Scenarios for Mobile Applicaiton Testing in 2022</a> July 14, 2022
 
 ## CI/CO
-### <a href="https://www.youtube.com/watch?v=VGVw8fnc5YY">iOS Continuous Integration Setup with CircleCI</a>
+### <a href="https://www.youtube.com/watch?v=VGVw8fnc5YY">iOS Continuous Integration Setup with CircleCI</a> July 24, 2022
 How do multiple developers work together on the same Xcode project?
 Version Control, Git/Github
 
@@ -135,4 +151,10 @@ May become tedious to manually build your app by opening Xcode, select Generic f
 ### <a href="https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM" target="_blank">How to get started with Circle CI</a> July 12, 2022
 
 ## TDD & BDD
+### <a href="https://youtu.be/B4yJ85IaTUw">TDD and Unit Testing in iOS | Part 1 Stateless Objects</a> July 25, 2022
+* Always write a test before writing a function.
+* Start writing the simplist test, and write a code for it, then expand and repeat it, incrementally.
+* When creating a new test file and class, use 'tests' at the end of its name: class MoneyFormatterTests: XCTestCase {
+* When creatung a new test file and class, add '@testable import WeeklyBudget', for instance, to access necessary objects in the project.
+* 
 ### <a href="https://youtu.be/mT8QDNNhExg" target="_blank">BDD vs TDD (explained)</a> July 14, 2022
