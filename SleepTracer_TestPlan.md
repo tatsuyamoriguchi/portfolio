@@ -1,11 +1,16 @@
-# Sleep Tracer
-## QA Test Plan
+# Sleep Tracer QA Test Plan
 
-1. Introduction
-1.1 Overview
-A Test Plan is a document that describes the scope of testing, test strategy, objectives, effort, schedule, and resources required. It serves as a guide to testing throughout the development process. Find an example of the Functional Test Plan here.
-1.2 Scope
+## 1. Introduction
+### 1.1 Overview
+This Test Plan for Sleep Tracer is a document that describes the scope of testing, test strategy, objectives, effort, schedule, and resources required. It serves as a guide to testing throughout the development process.
+### 1.2 Scope
 The scope of work is defined at the beginning of the testing process. A project team should clearly understand what features and functions there are to be tested and which ones are out of scope. To determine the scope of testing, the project specification, budget, and customer’s requirements should be taken into account. 
+* In-Scope
+
+
+* Out-of-Scope
+
+
 1.3 References
 This section contains the documents which support the test plan and can be referred to during the testing process. Commonly, the list involves:
 * the project plan
