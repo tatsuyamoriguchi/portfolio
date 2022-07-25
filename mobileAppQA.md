@@ -1,6 +1,6 @@
 < Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 # Mobile App QA Engineering Topics
-(A partial list of projects done or topics learned)
+(A partial list of mobile app QA engineering topics learned)
 
 Tatsuya "Brian" Moriguchi
 
