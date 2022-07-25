@@ -3,7 +3,7 @@
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page</a>: https://tatsuyamoriguchi.github.io/portfolio/ You're here.
 * [Go to iOS and Swift Page](iOSandSwift.md)
 * [Go to Mobile App QA Engineering Topics](mobileAppQA.md)
-* [Go to Sleep Tracer Test Plan](SleepTracerTestPlan.md)
+* [Go to Sleep Tracer Test Plan](SleepTracer_TestPlan.md)
 * [Go to Documentation, Presentation, Agile, Team Work Page]
 
 ## Tatsuya "Brian" Moriguchi
