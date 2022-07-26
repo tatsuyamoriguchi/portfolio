@@ -25,6 +25,37 @@ Compared to Agile, CI is more of an iterative approach, in which code is develop
   7. Storage: Data space your app requires and how it affects monthly data plan.
   8. Data to and from: Load time, check network conditions, speciic deices, and geographic locations
   9. Applicaiton flow
+* Specifics and Scope
+  * Does the app interact with other apps?
+  * Is the app Native or Mobile-web or Hybrid?
+  * Is the app testing include only front-end or back-end testing as well?
+  * Is it compatible with multiple networks?
+
+#### Identify Testing Locations
+Localization testing, which tests your app in a variety of locations and languages
+
+#### Decide Device Coverage
+* Leading mobile app companies test over 24 device-OS combinations prior to a release.
+* What operating systems does your app support? 
+* What are the earliest versions of the relevant OS? 
+* What are the most popular mobile devices among your target audience? 
+
+### 2. Plan mobile app tests
+break the strategy down into a plan of action, detailing who / what will execute your tests and on what timeline. An essential component of this step is preparing test suites: writing test cases or test scripts for automated testing. 
+
+#### Manual v Automated Testing
+Automated testing is useful to verify repeated tasks and solid code. The drawback is that writing and updating the test scripts to verify an app’s standard features can be time consuming. automated scripts cannot substitute for ‘in the wild’ testing. 
+
+#### Write Test Cases
+<a href="https://testlio.com/blog/write-test-case-structured-project-team/">How to Write a Test Case for Your Project and Your Team</a>
+
+#### Identify Testing Approach / Partner
+When selecting testers (either with a crowdsourced QA company, or on your own), it is advantageous to use testers who are similar to your users.
+
+### 3. Execute app testing
+
+
+
 
 ## Types of Test
 ### <a href="https://youtu.be/NgQT7miTP9M">Testing basics | Functional vs non-functional by Circle CI</a> July 25, 2022
