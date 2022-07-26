@@ -5,7 +5,7 @@
 Tatsuya "Brian" Moriguchi
 
 ## Test Plan and High Level Procedures
-### <a href="https://testlio.com/blog/step-step-mobile-application-testing-process/">Your step-by-step mobile application testing process</a>
+### <a href="https://testlio.com/blog/step-step-mobile-application-testing-process/">Your step-by-step mobile application testing process</a> July 26, 2022
 ### Agile Testing and Continuous Integration
 
 With an average sprint lasting 10 days, this means mobile app testing and preparation occurs throughout the entire development lifecycle. QA teams usually need to write test cases, while Dev teams are developing so that testing can happen in a short window at the end of the sprint.
@@ -53,7 +53,22 @@ Automated testing is useful to verify repeated tasks and solid code. The drawbac
 When selecting testers (either with a crowdsourced QA company, or on your own), it is advantageous to use testers who are similar to your users.
 
 ### 3. Execute app testing
+CI Systems and manaual testing in parallel
 
+### 4. Track and manage defects
+The key here is correctly prioritizing defects.
+Defects can be tracked in a project management software like JIRA.
+* Low: no major impact to business functionality (e.g. a misspelling in the UI)
+* Medium: functionality is not working as expected, but there is a work around
+* High: critical functionality is blocked, but there is a work around 
+* Blocker: critical business functionality is blocked and the user has no work around
+
+### 5. Review!
+One option is to create <a href = "https://testlio.com/blog/8-steps-to-building-an-effective-qa-test-summary-report-for-mobile-applications/"a test summary report.</a>
+* Which devices and OS versions were tested
+* A review of the tests performed, and major defects uncovered 
+* How many tests passed and failed
+* If appropriate, you can also make a final recommendation on if the mobile application meets all the acceptance criteria and is ready for release to the public.
 
 
 
