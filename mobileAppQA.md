@@ -173,6 +173,10 @@ May become tedious to manually build your app by opening Xcode, select Generic f
 ### <a href="https://youtube.com/playlist?list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM" target="_blank">How to get started with Circle CI</a> July 12, 2022
 
 ## TDD & BDD
+### <a href="https://www.youtube.com/watch?v=0TGQpZiAoKU">TDD and Unit Testing in iOS | Part 2 Stateful Objects</a>
+* Test a stateful object's state changes.
+* Icrementally write a unit test then function.
+* 
 ### <a href="https://youtu.be/B4yJ85IaTUw">TDD and Unit Testing in iOS | Part 1 Stateless Objects</a> July 25, 2022
 * Always write a test before writing a function.
 * Start writing the simplist test, and write a code for it, then expand and repeat it, incrementally.
