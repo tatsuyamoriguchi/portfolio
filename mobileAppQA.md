@@ -13,7 +13,18 @@ With an average sprint lasting 10 days, this means mobile app testing and prepar
 Compared to Agile, CI is more of an iterative approach, in which code is developed in small, continuous updates and releases. Rather than testing an entire mobile application in a sprint, QA teams can test portions of a feature, or maybe 2 out of the 5 features done in that sprint. As code is produced in smaller segments, it is tested. End-to-end testing usually occurs prior to a release at the end of the sprint. 
 
 ### 1. Test scope & coverage
-
+* Determine what you will test, specifically the features and functionality of the app.
+* Determine the types of mobile app testing required: Functional Testing, Usability Testing, Compatibility Testing, Performance and Load Testing, Security Testing, Installation Testing, Localization Testing, Manual Testing, automated Testing, Mobile Device Testing.
+* <a href="https://testlio.com/blog/9-step-mobile-app-testing-strategy-checklist/">9 Step Mobile app Testing Strategy</a>
+  1. Cross-platform testing
+  2. Feature functionality
+  3. Type of application (Mobile-web, Natie, or Hybrid)
+  4. Front-end testing (GUI): Regression tests, Performance checks, Changes or updates to app files that might break front-end functionality
+  5. Back-end testing including security and performance tests
+  6. Multiple network compatibility: Install and uninstall, Functionality, Traversal, Data exchange, UI
+  7. Storage: Data space your app requires and how it affects monthly data plan.
+  8. Data to and from: Load time, check network conditions, speciic deices, and geographic locations
+  9. Applicaiton flow
 
 ## Types of Test
 ### <a href="https://youtu.be/NgQT7miTP9M">Testing basics | Functional vs non-functional by Circle CI</a> July 25, 2022
