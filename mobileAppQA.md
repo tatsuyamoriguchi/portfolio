@@ -1,8 +1,19 @@
-< Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
+< Back to <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a> July 26, 2022
 # Mobile App QA Engineering Topics
 (A partial list of mobile app QA engineering topics learned)
 
 Tatsuya "Brian" Moriguchi
+
+## Test Plan and High Level Procedures
+### <a href="https://testlio.com/blog/step-step-mobile-application-testing-process/">Your step-by-step mobile application testing process</a>
+### Agile Testing and Continuous Integration
+
+With an average sprint lasting 10 days, this means mobile app testing and preparation occurs throughout the entire development lifecycle. QA teams usually need to write test cases, while Dev teams are developing so that testing can happen in a short window at the end of the sprint.
+
+Compared to Agile, CI is more of an iterative approach, in which code is developed in small, continuous updates and releases. Rather than testing an entire mobile application in a sprint, QA teams can test portions of a feature, or maybe 2 out of the 5 features done in that sprint. As code is produced in smaller segments, it is tested. End-to-end testing usually occurs prior to a release at the end of the sprint. 
+
+### 1. Test scope & coverage
+
 
 ## Types of Test
 ### <a href="https://youtu.be/NgQT7miTP9M">Testing basics | Functional vs non-functional by Circle CI</a> July 25, 2022
