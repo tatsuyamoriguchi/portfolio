@@ -245,6 +245,8 @@ May become tedious to manually build your app by opening Xcode, select Generic f
 ### <a href="https://youtu.be/v5zF_AYaRfQ">TDD and Unit Testing in iOS | Part 3 View Controllers</a>
 * The Less code in ViewController, The Easier to test
 * Unit Test for UIViewController
+* Test UI behavior and interaction between UI elements, rather than the location and size of each UI elements since you're constantly visually checking them.
+
 
 ### <a href="https://www.youtube.com/watch?v=0TGQpZiAoKU">TDD and Unit Testing in iOS | Part 2 Stateful Objects</a>
 * Test a stateful object's state changes.
