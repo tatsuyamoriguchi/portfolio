@@ -1,5 +1,5 @@
 < [Back to Portfolio Page](README.md)
-# Sleep Tracer version 1 iOS App Development Plan
+# Sleep Tracer (version 1) iOS App Development Plan
 Sleep Tracer is a tentative app name.
 
 ## Product Concept
