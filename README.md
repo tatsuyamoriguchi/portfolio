@@ -9,22 +9,30 @@
 ## Tatsuya "Brian" Moriguchi
 - Irvine, California U.S.A.
 - iOS Developer with software localization, QA, technical support, management, and business background
-- Strong interest in health/wellness, medical/healthcare, eCommerce, energy, environment, agriculture, fishery, landscape, supply chain, logistics, manufacturing, and construction (Social Infrastructure) industries or AI technology company making direct impact on existing businesses
-- Interested in app development pairing with external devices, vehicles, or facility.
+- Strong interest in medical/healthcare, IoT or AI technology company making direct impact on existing businesses and social infrastructure.
+- Interested in app development pairing with external devices.
 - Looking for a collaborative team environment
+- Better fit into startup's early stage of iOS app development such as creating MVP, and small team rather than working for a large team and code base
 - Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
 - LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
+- Tech Stack: Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion, etc.
 
-### Tech Stack:
-Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion
 
-## Projects
-### KELVIN-ADL PilotProject
+# Projects
+## Sleep Tracer (Current Project)
+* Detect the possibility of a user’s sleep disorder symptom with Apple Watch pairing with iOS devices
+* Educates users about sleep apnea and other sleeping issues
+* Give users health care options nearby for possible sleeping disorder and other symptoms
+* Promote clinics, therapists, institutions, medication, and medical euipments with Sleep Tracer
+* HealthKit, FHIR data access, watchOS, CloudKit or Firebase, Push Notificaiton, Core Locaiton, MapKit, Apple Maps Points of Interest or Google Map API to get nearby clinics, Core Bluetooth to connect with a thermometer and other deivices as options, Charts, Weather API, Core Data, etc. 
+
+
+## KELVIN-ADL PilotProject
 <img width="67" alt="image" src="https://user-images.githubusercontent.com/25876806/177671920-ba6726da-68b0-477b-8727-d4596d6fdcfd.png">
 Designed and developed a watchOS app which records a patient’s arm movement data from an AppleWatch using Core Motion and WatchKit Machine Medicine Technologies, Ltd., a UK Machine Learning health care technology startup company. https://machinemedicine.com
 
 
-### Soba Supreme E-Commerce Site
+## Soba Supreme E-Commerce Site
 ![image](https://user-images.githubusercontent.com/25876806/177672007-546932da-39bd-4fa6-aef9-fc9a1e77aaa6.png)
 
 Designed and developed Soba Supreme sells Japanese buckwheat soba noodle products online using WordPress, WooCommerce and various plugins. https://sobasupreme.com (Closed as of June 2022)
@@ -33,10 +41,7 @@ Designed and developed Soba Supreme sells Japanese buckwheat soba noodle product
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjUsVsgVnaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
-## Personal Projects
-### CoronaCast
+## CoronaCast
 ![coronacast 180](https://user-images.githubusercontent.com/25876806/177672407-b49f3fed-0586-4d49-93cc-ac91c054b0d3.png)
 
 CoronaCast provides of the latest COVID-19 world-wide stats and news feed. Download is available upon request.
@@ -51,21 +56,21 @@ YouTube: https://youtu.be/GD_XEAn4UqA
 
 
 
-### Mind Tracer
+## Mind Tracer
 ![image](https://user-images.githubusercontent.com/25876806/177672186-dc5cd77f-3227-4fe0-991c-d674b6b261eb.png)
 
 Designed and developed Mind Tracer, an app that records and traces your state of mind, using Core Data, Core Location, MapKit, iOS Charts API with CocoaPod, Localization (Japanese)
 - App Store: <a href="https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1">https://apps.apple.com/us/app/mind-tracer/id1475160142?ls=1</a>
 
 
-### Poli ToDo version 3
+## Poli ToDo version 3
 ![image](https://user-images.githubusercontent.com/25876806/177672231-420163df-fcc6-4d45-8bf8-8fead0f33741.png)
 
 Updated from version 2 newly implementing Core Data iCloud sync, iCloud sync data conversion for version 2 existing data, MacOS Catalyst, UISearchController to search tasks, Task repeat, Added Tomorrow’s task list, improved UI workflows, and bug fixes
 - App Store: <a href="http://itunes.apple.com/us/app/poli-todo/id1451371111">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
                 
 
-### Haiku Disrupted
+## Haiku Disrupted
 ![image](https://user-images.githubusercontent.com/25876806/177672242-f01d90cc-b420-4612-86aa-8c80f10ae20f.png)
 
 Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsController with Core Data, text-to-speech, text-to-image, and UIActiveShareController
@@ -76,14 +81,14 @@ Designed and developed an auto-Haiku generator iOS app, using NSFetchedResultsCo
 - Preview#2 at YouTube https://youtu.be/R1RMEBK_uSs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R1RMEBK_uSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Poli ToDo version 2
+## Poli ToDo version 2
 ![image](https://user-images.githubusercontent.com/25876806/177672258-db2c542c-5da0-4e44-81d4-40057edd9051.png)
 
 Updated from version 1, newly implementing Core Data NSFetchedResultsController, data migration, EvenKit, Share Extension 
 - App Store: <a href="http://itunes.apple.com/us/app/poli-todo/id1451371111">http://itunes.apple.com/us/app/poli-todo/id1451371111</a>
 
 
-### Poli ToDo version 1
+## Poli ToDo version 1
 ![image](https://user-images.githubusercontent.com/25876806/177672271-8b733585-c517-41cf-9272-0562d059754a.png)
 
 Designed and developed a ToDo app, using Core Data, Localization (Japanese) 
