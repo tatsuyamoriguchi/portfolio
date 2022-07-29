@@ -9,7 +9,7 @@ Sleep Tracer is a tentative app name.
 4. To promote clinics and institutions with Sleep Tracer
 
 ## Basic features and technologies to implement and learn
-- [ ] Product Requirements
+- [ ] <a href="https://nix-united.com/blog/how-to-write-a-proper-mobile-app-requirements-document-in-5-steps/">HOW TO WRITE A PROPER MOBILE APP REQUIREMENTS DOCUMENT IN 5 STEPS</a>
 - [ ] Software Development Lifecycle
 - [ ] Designing software architecture and maintaining code quality
 - [ ] Front end development UI/UX design -> SwiftUI with MVVM
