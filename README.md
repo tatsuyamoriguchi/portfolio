@@ -23,7 +23,7 @@
 * Detect the possibility of a user’s sleep disorder symptom with Apple Watch pairing with iOS devices
 * Educates users about sleep apnea and other sleeping issues
 * Give users health care options nearby for possible sleeping disorder and other symptoms
-* Promote clinics, therapists, institutions, medication, and medical euipments with Sleep Tracer
+* Promote clinics, therapists, institutions, medication, and medical equipments
 * HealthKit, FHIR data access, watchOS, CloudKit or Firebase, Push Notificaiton, Core Locaiton, MapKit, Apple Maps Points of Interest or Google Map API to get nearby clinics, Core Bluetooth to connect with a thermometer and other deivices as options, Charts, Weather API, Core Data, etc. 
 
 
