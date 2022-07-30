@@ -3,7 +3,7 @@
 
 ## Business Goals and Objectives
 ### Business problem or need to solve
-* 70 Millions people in the US suffer from sleeping disorder. Potentially many more suffer from sleeping disorder bit not knowing it.
+* 70 Millions people in the US suffer from sleeping disorder. Potentially many more suffer from sleeping disorder but not aware of it.
 * Educate and make them aware of the possibility of having sleeping disorder, and help their life better.
 * Any fatigue, glockiness, muscle pain, dizziness indicate the possibility of sleeping disorder such as Sleep Apnea.
 * Help people to easily access medical solutions and options.
