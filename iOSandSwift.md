@@ -4,6 +4,91 @@
 A partial list of iOS and Swift projects topics learned
 
 ## CS/Swift Fundamentals
+### <a href="https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue">Queue</a>
+* A queue is a list where you can only insert new items at the back and remove items from the front.
+* A queue gives you a FIFO or first-in, first-out order. The element you inserted first is the first one to come out.
+```
+queue.enqueue(10)
+queue.enqueue(3)
+queue.enqueue(57) // queue = [10,3, 57]
+queue.dequeue // Returns 10 queue = [3, 57]
+```
+```
+public struct Queue<T> {
+  fileprivate var array = [T]()
+
+  public var isEmpty: Bool {
+    return array.isEmpty
+  }
+  
+  public var count: Int {
+    return array.count
+  }
+
+  public mutating func enqueue(_ element: T) {
+    array.append(element)
+  }
+  
+  public mutating func dequeue() -> T? {
+    if isEmpty {
+      return nil
+    } else {
+      return array.removeFirst()
+    }
+  }
+  
+  public var front: T? {
+    return array.first
+  }
+}
+```
+
+More efficient dequeue code
+```
+public struct Queue<T> {
+  fileprivate var array = [T?]()
+  fileprivate var head = 0
+  
+  public var isEmpty: Bool {
+    return count == 0
+  }
+
+  public var count: Int {
+    return array.count - head
+  }
+  
+  public mutating func enqueue(_ element: T) {
+    array.append(element)
+  }
+  
+  public mutating func dequeue() -> T? {
+    guard head < array.count, let element = array[head] else { return nil }
+
+    array[head] = nil
+    head += 1
+    
+    // periodically trim down the array
+    let percentage = Double(head)/Double(array.count)
+    if array.count > 50 && percentage > 0.25 {
+      array.removeFirst(head)
+      head = 0
+    }
+    
+    return element
+  }
+  
+  public var front: T? {
+    if isEmpty {
+      return nil
+    } else {
+      return array[head]
+    }
+  }
+}
+```
+
+
+
 ### <a href="https://github.com/raywenderlich/swift-algorithm-club/tree/master/Stack">Stack</a>
 * A stack is like an array but with limited functionality. You can only push to add a new element to the top of the stack, pop to remove the element from the top, and peek at the top element without popping it off.
 * A stack gives you a LIFO or last-in first-out order.
