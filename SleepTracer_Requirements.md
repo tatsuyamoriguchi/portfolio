@@ -18,6 +18,12 @@
 * Discover potential patients for providers (clinics, hospitals, therapists, and medical device manufacturers).
 * With in-app ad and payment, it helps providers to generate new leads and revenue.
 
+### Monetization Model
+* In-app Ad sponsor revenue
+* In-app payment to directly purchase sponsor's products and services
+* Highlight sponsor listing in a user's search of near-by interests list
+
+
 ## App User Personas and Stories
 #### John Appleseed (Example, not real persona)
 * Name: John Appleseed
@@ -52,15 +58,115 @@
 * Access and download a user's health records from the user's clinic or hospital's FHIR server.
 
 ### Security Requirements
+* Store user's health data in HealthKit
+* Implement user's FHIR data access to external medical institutions' servers.
+* Request access rights to user's health recrod in HealthKit and FHIR record.
 ### Performance Requirements
+* For version 1, the number of simultaneous use of users is up to 1,000.
 ### Compatibility Requirements with Multiple Devices
+
+| Device | Released	| First iOS |	Max iOS |
+| ------------- | ------------- | ------------- | ------------- |
+| iPhone SE (gen 3)	| 2022 | 15	| 16 BETA |
+| iPhone 13 Pro / 13 Pro Max | 2021 | 15 | 16 BETA |
+| iPhone 13 / 13 mini | 2021 | 15 | 16 BETA |
+| iPhone 12 Pro / 12 Pro Max	| 2020	| 14 | 16 BETA |
+| iPhone 12 / 12 mini | 2020 | 14 | 16 BETA |
+| iPhone SE (gen 2)	13 | 2020 | 13 | 16 BETA |
+| iPhone 11 Pro / 11 Pro Max	| 2019 | 13 | 16 BETA | 
+| iPhone 11 | 2019 | 13 | 16 BETA |
+
+
+| Device	| Released	| First iPadOS	| Max iPadOS | 
+| --- | --- | --- | --- | 
+| iPad Air (gen 5)	| 2022	| 15	| 16 BETA | 
+| iPad (gen 9)	| 2021 | 15 | 16 BETA | 
+| iPad mini (gen 6) |  2021 | 15 | 16 BETA | 
+| iPad Pro 12.9" (gen 5)	| 2021 | 14 | 16 BETA |  
+| iPad Pro 11" (gen 3) | 2021 | 14 | 16 BETA | 
+| iPad Air (gen 4)	| 2020 | 14 | 16 BETA | 
+| iPad (gen 8) | 2020 | 14 | 16 BETA | 
+| iPad Pro 12.9" (gen 4)	| 2020 | 13 | 16 BETA |  
+
 ### Interrupt Requirements
+* Battery low
+* Battery full- when charging
+* Incoming phone call
+* Incoming SMS
+* Incoming Alert from another mobile application
+* Plugged in for charging
+* Plugged out from charging
+* Device shut off
+* Application Update reminders
+* Alarm
+* Network connection loss
+* Network connection restoration
+
+1. Run in background: The interruption takes over while the application takes a back seat. It gains control after the interruption ends. For example, A phone call/Facetime that you attend while you are reading a digital book on iBooks(or similar application). When the user answers a phone, iBooks waits until it is done and then resumes when the call ends.
+2. Show alert. Alert disappears, and you work as usual. ‘SMS received’- messages appear in the header. The user doesn’t bother about it and continue working with the application as normal. Other mobile app alerts, such as a new friend request on Facebook or WhatsApp message, also fall into this category. But if the user decides to read the message, the behavior described in Point 1 is followed. If ignored, the application’s state is unchanged.
+3. Call to Action: Alarms have to be turned off or snoozed before you continue working. Same thing with App update messages. You either have to Cancel or Accept the changes before you proceed. Another example is that of the low battery alert- You can choose to continue as usual or go into a low power mode (if the device allows it.)
+4. No impact: An example is: if a network connection becomes available and your device connects to it. Also, when you plug your device in for charging, no alert or call to action step is necessary. It will probably do its job while you continue using your application.
+
+
 ### Installtion and Launch Requirements
+* Since 1st realease, no version update is necessary.
+* Install the app via the App Store
+
+
 ### Localization Requirements
-
-
-
+* Version 1 supports US and English locale. 
 
 ## App UX, user flow, design notice
+(To be filled later)
+
 ## App technology and infrastructure requirements
+* iOS
+* watchOS
+* HealthKit
+* FHIR data access
+* Core Data
+* Core Motion
+* Core Bluetooth
+* External devices such as thermometer (TBD)
+* Weather API
+* CloudKit/Firebase (TBD)
+* Push Notification
+* Chart API or latest Apple's Chart/HealthKit Chart (TBD)
+* Apple Maps Nearby Interests/Google Maps API (TBD)
+
 ## Assumptions, constraints & dependencies
+* Consider to develop as Open Source Project.
+
+
+
+## General Assets
+(To be filled later)
+* Icons of supported sizes (iOS: @1x @2x @3x images | Android: mdpi, hdpi, xhdpi, xxhdpi)
+* Splash screens of recommended sizes (iOS: @1x @2x @3x images | Android: mdpi, hdpi, xhdpi, xxhdpi)
+* Screenshots in the correct dimensions and required languages
+* App descriptions in required languages
+* Search keywords in required languages
+* List of supported devices and OS versions
+ 
+
+** Apple App Store
+(To be filled later)
+
+* iTunes Connect Account access
+* Company/Entity Name
+* App Store app listing name
+* Search keywords
+* Bundle id / SKU
+* Demo account for reviewers
+* Description
+* Support URL
+* Marketing URL
+* Privacy policy
+* App category
+* Copyright information
+* Contact information
+* App icon (1024×1024)
+* App Store distribution provision profile
+* App Store distribution code signing identity
+* Screenshots (correct sizes based on devices)
+
