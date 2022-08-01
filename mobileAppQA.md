@@ -39,6 +39,7 @@ Localization testing, which tests your app in a variety of locations and languag
 * What operating systems does your app support? 
 * What are the earliest versions of the relevant OS? 
 * What are the most popular mobile devices among your target audience? 
+* <a href="https://iosref.com/ios">iOS devices and versions</a>
 
 ### 2. Plan mobile app tests
 break the strategy down into a plan of action, detailing who / what will execute your tests and on what timeline. An essential component of this step is preparing test suites: writing test cases or test scripts for automated testing. 
