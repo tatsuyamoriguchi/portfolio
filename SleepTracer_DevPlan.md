@@ -9,6 +9,7 @@ Sleep Tracer is a tentative app name.
 4. To promote clinics and institutions with Sleep Tracer
 
 ## Basic features and technologies to implement and learn
+- [x] <a href="https://clearbridgemobile.com/how-to-build-a-mobile-app-requirements-document/">How to Write an Effective Mobile App Product Requirements Document</a>
 - [x] <a href="https://nix-united.com/blog/how-to-write-a-proper-mobile-app-requirements-document-in-5-steps/">HOW TO WRITE A PROPER MOBILE APP REQUIREMENTS DOCUMENT IN 5 STEPS</a>
 - [x] <a href="https://lvivity.com/functional-and-non-functional-requirements">FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS FOR MOBILE APP: WHAT’S THE DIFFERENCE?</a>
 - [ ] Software Development Lifecycle
