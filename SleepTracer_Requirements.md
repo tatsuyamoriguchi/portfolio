@@ -172,3 +172,11 @@
 * App Store distribution code signing identity
 * Screenshots (correct sizes based on devices)
 
+## Marketing Resouces
+* Marketing regions
+* App web site
+* SNS channels to promote
+* SEO
+* SNS/Web site ad
+* Analytic method
+* Media promotion
