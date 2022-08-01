@@ -149,9 +149,11 @@
 * List of supported devices and OS versions
  
 
-** Apple App Store
+## Apple App Store
 (To be filled later)
-
+* App name trade mark clearance
+* App name copyright clearance
+* App name retention at the App Store
 * iTunes Connect Account access
 * Company/Entity Name
 * App Store app listing name
