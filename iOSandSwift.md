@@ -3,6 +3,59 @@
 # iOS and Swift
 A partial list of iOS and Swift projects topics learned
 
+## Software Development Lifecycle
+1. Planning
+2. Requirement Analysis
+3. Design
+* Business Rules
+* Layout
+* Color Scheme
+* Programming language to use
+* Frameworks, SDKs, APIs
+* Back-end system server design
+* Database design and relationship
+* App acchitecture
+* Mobile Devices, OS versions, browser, and other external software to support
+4. Implementation/Coding
+* Hardware Environment
+* Coding
+* Designers continue graphic design.
+* Testers start writing test plan, test scenarios, and test cases.
+5. Testing
+* Bug Lifecycle
+  * Open
+  * In Progress
+  * Resolved
+  * Closed
+  * Re-opened
+6. Deployment
+* iOS app submission to the App Store
+  * App name trade mark clearance
+  * App name copyright clearance
+  * App name retention at the App Store
+  * iTunes Connect Account access
+  * Company/Entity Name
+  * App Store app listing name
+  * Search keywords
+  * Bundle id / SKU
+  * Demo account for reviewers
+  * Description
+  * Support URL
+  * Marketing URL
+  * Privacy policy
+  * App category
+  * Copyright information
+  * Contact information
+  * App icon (1024×1024)
+  * App Store distribution provision profile
+  * App Store distribution code signing identity
+  * Screenshots (correct sizes based on devices)
+7. Maintenance
+* Monitor the server load
+* Collect and manage bugs reported by users via technical and customer support teams
+* Fix issues and make another release.
+
+
 ## CS/Swift Fundamentals
 ### <a href="https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue">Queue</a>
 * A queue is a list where you can only insert new items at the back and remove items from the front.
