@@ -69,16 +69,16 @@ Some of the Important Frameworks available in the core services layers are detai
 | Core Services Layer Features | Description |
 | --- | --- |
 | Address book framework | – Gives programmatic access to a contacts database of user. |
-Cloud Kit framework | – Gives a medium for moving data between your app and iCloud. |
-Core data Framework | – Technology for managing the data model of a Model View Controller app. |
-Core Foundation framework | – Interfaces that gives fundamental data management and service features for iOS apps. |
-Core Location framework | – Gives location and heading information to apps. |
-Core Motion Framework | – Access all motion based data available on a device. Using this core motion framework Accelerometer based information can be accessed. |
-Foundation Framework | – Objective C covering too many of the features found in the Core Foundation framework |
-Healthkit framework | – New framework for handling health-related information of user |
-Homekit framework | – New framework for talking with and controlling connected devices in a user’s home. |
-Social framework | – Simple interface for accessing the user’s social media accounts. |
-StoreKit framework | – Gives support for the buying of content and services from inside your iOS apps, a feature known asIn-App Purchase. |
+| Cloud Kit framework | – Gives a medium for moving data between your app and iCloud. |
+| Core data Framework | – Technology for managing the data model of a Model View Controller app. |
+| Core Foundation framework | – Interfaces that gives fundamental data management and service features for iOS apps. |
+| Core Location framework | – Gives location and heading information to apps. |
+| Core Motion Framework | – Access all motion based data available on a device. Using this core motion framework Accelerometer based information can be accessed. |
+| Foundation Framework | – Objective C covering too many of the features found in the Core Foundation framework |
+| Healthkit framework | – New framework for handling health-related information of user |
+| Homekit framework | – New framework for talking with and controlling connected devices in a user’s home. |
+| Social framework | – Simple interface for accessing the user’s social media accounts. |
+| StoreKit framework | – Gives support for the buying of content and services from inside your iOS apps, a feature known asIn-App Purchase. |
 
 3. Media Layer
 Graphics, Audio and Video technology is enabled using the Media Layer.
@@ -108,19 +108,17 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 | Core Media | – framework describes the low level interfaces and data types for operating media. |
 
 
-Cocoa Touch Layer
-EventKit framework – gives view controllers for showing the standard system interfaces for seeing and altering calendar related events
-GameKit Framework – implements support for Game Center which allows users share their game related information online
-iAd Framework – allows you deliver banner-based advertisements from your app.
-MapKit Framework – gives a scrollable map that you can include into your user interface of app.
-PushKitFramework – provides registration support for VoIP apps.
-Twitter Framework – supports a UI for generating tweets and support for creating URLs to access the Twitter service.
-UIKit Framework – gives vital infrastructure for applying graphical, event-driven apps in iOS. Some of the Important functions of UI Kit framework:
--Multitasking support.
-– Basic app management and infrastructure.
-– User interface management
-– Support for Touch and Motion event.
-– Cut, copy and paste support and many more.
+6. Cocoa Touch Layer
+
+| Cocoa Touch Layer | Description |
+| --- | --- |
+| EventKit framework | – gives view controllers for showing the standard system interfaces for seeing and altering calendar related events |
+| GameKit Framework | – implements support for Game Center which allows users share their game related information online |
+| iAd Framework | – allows you deliver banner-based advertisements from your app. |
+| MapKit Framework | – gives a scrollable map that you can include into your user interface of app. |
+| PushKitFramework | – provides registration support for VoIP apps. |
+| Twitter Framework | – supports a UI for generating tweets and support for creating URLs to access the Twitter service. |
+| UIKit Framework | – gives vital infrastructure for applying graphical, event-driven apps in iOS. Some of the Important functions of UI Kit framework: Multitasking support, Basic app management and infrastructure, User interface management, Support for Touch and Motion event, Cut, copy and paste support and many more. |
 
 
 
