@@ -8,6 +8,35 @@
 * Any fatigue, glockiness, muscle pain, dizziness indicate the possibility of sleeping disorder such as Sleep Apnea.
 * Help people to easily access medical solutions and options.
 
+| Age | Average Respiratory Rate |
+| --- | --- |
+| Newborn to 12 Months | 30 to 60 breaths per minute |
+| 1 to 2 Years | 24 to 40 breaths per minute |
+| 3 to 5 Years | 22 to 34 breaths per minute |
+| 6 to 12 Years | 18 to 30 breaths per minute |
+| 13 to 17 Years | 12 to 20 breaths per minute |
+| 18 to 65 Years | 12 to 20 breaths per minute |
+| 66 to 80 Years | 12 to 28 breaths per minute |
+| 81 or older | 10 to 30 breaths per minute |
+
+- [x] Low respiratory rate during sleep
+    * Sleep Apnea
+    * Asthma or other lung disorders
+    * Heartburn
+    * Pneumonia
+    * Allergic reaction
+    * Heart conditions and cardiac arrest
+    * Drug use or overdose, particularly of a central nervous system depressant
+- [x] High respiratory rate during sleep
+    * tachypnea
+    * hyperventilation
+    * Anxiety and panic attacks
+    * Asthma
+    * Chronic obstructive pulmonary disease and other lung conditions
+    * Lung infections such as pneumonia
+    * Blood clot in one of the lung’s arteries
+    * Heart failure
+
 ### Unique Selling Points and Differentiation
 * It gives a user an entry point to diagnosis his/her sleeping disorder just by iPhone and Apple Watch. Bluetooth-enabled Thermometor and devices will be options
 * Although it's not a FDA certified medical device to diagnosis medical condition, it tells a user "the possibility" of unknown sleeping disorder, and gives him/her a chance to consult with a medical expert.
