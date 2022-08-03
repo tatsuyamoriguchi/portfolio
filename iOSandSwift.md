@@ -6,11 +6,11 @@ A partial list of iOS and Swift projects topics learned
 ## Software Development Lifecycle
 * <a href="https://youtu.be/gNmrGZSGK1k">What Are The Steps of the Software Development Lifecycle?</a>
 * <a href="https://youtu.be/ZrEHmUZ4OeY">iOS Swift - 00B1 Workflow (Software Development Life Cycle)</a>
-1. Planning
+### 1. Planning
 * Feasibility Study: 
   * Can this project actually be completed? On time? Within budget? with existing staff?
   * Buy vs build?
-2. Requirement Analysis
+### 2. Requirement Analysis
 * Business rules
 * Security requirements
 * Use cases
@@ -21,7 +21,7 @@ A partial list of iOS and Swift projects topics learned
 - [x] <a href="https://nix-united.com/blog/how-to-write-a-proper-mobile-app-requirements-document-in-5-steps/">HOW TO WRITE A PROPER MOBILE APP REQUIREMENTS DOCUMENT IN 5 STEPS</a>
 - [x] <a href="https://lvivity.com/functional-and-non-functional-requirements">FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS FOR MOBILE APP: WHAT’S THE DIFFERENCE?</a>
 
-3. Design
+### 3. Design
 * Business Rules
 * Layout
 * Color Scheme
@@ -31,27 +31,12 @@ A partial list of iOS and Swift projects topics learned
 * Back-end system server design
 * Database design and relationship (data design)
 * Mobile Devices, OS versions, browser, and other external software to support
-* <a href="https://www.k7tech.agency/blog/ios-app-architecture-patterns">App architecture: A brief introduction to the iOS app architecture patterns</a>
-  * App architecture essentially presents a set of techniques and patterns which help developers create a well-structured application.
-  * App architectures help prevent code duplication, bad programming practices, and messy code. 
-  * The model represents knowledge - data structures, business logic, and rules. It is completely independent of the user interface.The view serves as a presentation of data - screens with UI elements where data is displayed and can be modified by the user.
-  * **MVC**: In the MVC pattern, the instructions are managed by the Controller - the layer where all the wires should be connected. It’s usually least reusable part of the app since it contains domain-specific rules. It “owns” the Model and uses it to define the flow of information. Think of it as an engine or brain - it decides what happens next. Problem with MVC (at least in iOS environment) is that ViewControllers, which should represent a part of the Controller layer, contains partial state and logic of the View layer. This usually leads to massive ViewControllers and bulky files.
-  * **MVP** (Model-View-Presenter): MVP is an alternative to the MVC pattern where the Controller is replaced by the Presenter. In this case, the separation of concerns is as follows: ViewController is a part of the View layer only, including all the UI setups and events. The Presenter is the component dealing with all-things-logic.The Model stays the same. It’s important to note that MVP uses passive View pattern, which means that all the actions will be forwarded to the Presenter. It will then trigger the UI updates using delegates and the View will only pass actions and listen to the Presenter updates.
-  * **MVVM** (Model-View-View Model): The MVVM pattern also allows taking some of this presentation logic out of the ViewController. It introduces View Model - layer that has been described as a state of the data in the View - which allows the creation of customized Models for each View. The idea of MVVM architecture is to have bindings between View and ViewModel which provide automatic synchronization of data and visual representation. This helps avoid the boilerplate code. View-ViewModel separation is particularly convenient because developers can work on ViewModel code and designers can work on View in Interface Designer.
-  * **VIPER**: The word VIPER is an acronym for View, Interactor, Presenter, Entity, and Routing. This so-called Clean Architecture pattern divides the app’s logical structure into distinct layers of responsibility. Consequently, it is easier to isolate dependencies (e.g. your database) and to test the interactions at the boundaries between layers. VIPER’s distinct layers help deal with this challenge by providing clear locations for application logic and navigation-related code.
-  * MVC results in poor testing process - only Model can be examined, V&C (due to the tight connection they have) cannot be tested at all. The robust connection between Controller and View segments proved to be truly “unhealthy” when it comes to software, so a new pattern was developed quickly after. However, it still is the “starter” pattern, the one that developers mostly begin with and improve over time. It should be used for simple and small apps.
-  * Some variations of this simple app design include transition to MVP. Its added benefit is that the View is more loosely coupled to the Model and it is easier to unit test it because interaction with the View is through an interface. Both MVC and MVP can be quite clean when implemented correctly, so this makes it more of a personal choice.
-  * MVVM’s distribution pattern is better than in MVC, but it is massively overloaded compared to MVP. Testing is of particular importance here. While writing the code you cannot guarantee that the whole project will function properly; tests help to ensure it will. MVVM provides great testing ground. MVVM should be used for medium-to-large applications and is generally not the pattern intended for new developers as it requires a bit more skill to be implemented correctly. Nevertheless, it is a great paradigm that stands on its own and is only made better with a nice binding framework. The motivation behind MVVM in iOS is that it essentially reduces the complexity of one’s view controllers (combating massive view controller syndrome) and makes one’s presentation logic easier to test.
-  * This is also the case with VIPER. Its module separation is very beneficial once it comes to unit tests, as the great pattern’s distribution lets you test all the functionalities available. This architecture is intended for large applications since its benefits are not so relevant and noticeable in small apps.
 
-<a href ="https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/">iOS Architecture</a>
-Architecture of IOS is a layered architecture. At the uppermost level iOS works as an intermediary between the underlying hardware and the apps you make. Apps do not communicate to the underlying hardware directly.
-Apps talk with the hardware through a collection of well defined system interfaces. These interfaces make it simple to write apps that work constantly on devices having various hardware abilities.
-Lower layers gives the basic services which all application relies on and higher level layer gives sophisticated graphics and interface related services.
-Apple provides most of its system interfaces in special packages called frameworks. A framework is a directory that holds a dynamic shared library that is .a files, related resources like as header files, images, and helper apps required to support that library. Every layer have a set of Framework which the developer use to construct the applications.
+### <a href ="https://intellipaat.com/blog/tutorial/ios-tutorial/ios-architecture/">iOS Architecture</a>: 
+Architecture of IOS is a layered architecture. At the uppermost level iOS works as an intermediary between the underlying hardware and the apps you make. Apps do not communicate to the underlying hardware directly. Apps talk with the hardware through a collection of well defined system interfaces. These interfaces make it simple to write apps that work constantly on devices having various hardware abilities. Lower layers gives the basic services which all application relies on and higher level layer gives sophisticated graphics and interface related services. Apple provides most of its system interfaces in special packages called frameworks. A framework is a directory that holds a dynamic shared library that is .a files, related resources like as header files, images, and helper apps required to support that library. Every layer have a set of Framework which the developer use to construct the applications.
 
-### Core OS Layer:
-1. The Core OS layer holds the low level features that most other technologies are built upon.
+#### Core OS Layer:
+1. The Core OS layer holds the low level features that most other technologies are built upon.    
 
 | Core Bluetooth Framework |
 | --- |
@@ -60,7 +45,6 @@ Apple provides most of its system interfaces in special packages called framewor
 | Security Services framework |
 | Local Authentication framework |
 | 64-Bit support from IOS7 supports the 64 bit app development and enables the application to run faster |
-
 
 
 2. Core Services Layer
@@ -120,11 +104,22 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 | Twitter Framework | – supports a UI for generating tweets and support for creating URLs to access the Twitter service. |
 | UIKit Framework | – gives vital infrastructure for applying graphical, event-driven apps in iOS. Some of the Important functions of UI Kit framework: Multitasking support, Basic app management and infrastructure, User interface management, Support for Touch and Motion event, Cut, copy and paste support and many more. |
 
+### <a href="https://www.k7tech.agency/blog/ios-app-architecture-patterns">App architecture: A brief introduction to the iOS app architecture patterns</a>
+  * App architecture essentially presents a set of techniques and patterns which help developers create a well-structured application.
+  * App architectures help prevent code duplication, bad programming practices, and messy code. 
+  * The model represents knowledge - data structures, business logic, and rules. It is completely independent of the user interface.The view serves as a presentation of data - screens with UI elements where data is displayed and can be modified by the user.
+  * **MVC**: In the MVC pattern, the instructions are managed by the Controller - the layer where all the wires should be connected. It’s usually least reusable part of the app since it contains domain-specific rules. It “owns” the Model and uses it to define the flow of information. Think of it as an engine or brain - it decides what happens next. Problem with MVC (at least in iOS environment) is that ViewControllers, which should represent a part of the Controller layer, contains partial state and logic of the View layer. This usually leads to massive ViewControllers and bulky files.
+  * **MVP** (Model-View-Presenter): MVP is an alternative to the MVC pattern where the Controller is replaced by the Presenter. In this case, the separation of concerns is as follows: ViewController is a part of the View layer only, including all the UI setups and events. The Presenter is the component dealing with all-things-logic.The Model stays the same. It’s important to note that MVP uses passive View pattern, which means that all the actions will be forwarded to the Presenter. It will then trigger the UI updates using delegates and the View will only pass actions and listen to the Presenter updates.
+  * **MVVM** (Model-View-View Model): The MVVM pattern also allows taking some of this presentation logic out of the ViewController. It introduces View Model - layer that has been described as a state of the data in the View - which allows the creation of customized Models for each View. The idea of MVVM architecture is to have bindings between View and ViewModel which provide automatic synchronization of data and visual representation. This helps avoid the boilerplate code. View-ViewModel separation is particularly convenient because developers can work on ViewModel code and designers can work on View in Interface Designer.
+  * **VIPER**: The word VIPER is an acronym for View, Interactor, Presenter, Entity, and Routing. This so-called Clean Architecture pattern divides the app’s logical structure into distinct layers of responsibility. Consequently, it is easier to isolate dependencies (e.g. your database) and to test the interactions at the boundaries between layers. VIPER’s distinct layers help deal with this challenge by providing clear locations for application logic and navigation-related code.
+  * MVC results in poor testing process - only Model can be examined, V&C (due to the tight connection they have) cannot be tested at all. The robust connection between Controller and View segments proved to be truly “unhealthy” when it comes to software, so a new pattern was developed quickly after. However, it still is the “starter” pattern, the one that developers mostly begin with and improve over time. It should be used for simple and small apps.
+  * Some variations of this simple app design include transition to MVP. Its added benefit is that the View is more loosely coupled to the Model and it is easier to unit test it because interaction with the View is through an interface. Both MVC and MVP can be quite clean when implemented correctly, so this makes it more of a personal choice.
+  * MVVM’s distribution pattern is better than in MVC, but it is massively overloaded compared to MVP. Testing is of particular importance here. While writing the code you cannot guarantee that the whole project will function properly; tests help to ensure it will. MVVM provides great testing ground. MVVM should be used for medium-to-large applications and is generally not the pattern intended for new developers as it requires a bit more skill to be implemented correctly. Nevertheless, it is a great paradigm that stands on its own and is only made better with a nice binding framework. The motivation behind MVVM in iOS is that it essentially reduces the complexity of one’s view controllers (combating massive view controller syndrome) and makes one’s presentation logic easier to test.
+  * This is also the case with VIPER. Its module separation is very beneficial once it comes to unit tests, as the great pattern’s distribution lets you test all the functionalities available. This architecture is intended for large applications since its benefits are not so relevant and noticeable in small apps.
 
 
 
-
-4. Implementation/Coding
+### 4. Implementation/Coding
 * Hardware Environment
 * Coding
 * Unit Test with TDD
