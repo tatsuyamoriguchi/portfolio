@@ -51,7 +51,7 @@ Lower layers gives the basic services which all application relies on and higher
 Apple provides most of its system interfaces in special packages called frameworks. A framework is a directory that holds a dynamic shared library that is .a files, related resources like as header files, images, and helper apps required to support that library. Every layer have a set of Framework which the developer use to construct the applications.
 
 ### Core OS Layer:
-The Core OS layer holds the low level features that most other technologies are built upon.
+1. The Core OS layer holds the low level features that most other technologies are built upon.
 
 | Core Bluetooth Framework |
 | --- |
@@ -65,27 +65,33 @@ The Core OS layer holds the low level features that most other technologies are 
 
 2. Core Services Layer
 Some of the Important Frameworks available in the core services layers are detailed:
-Address book framework – Gives programmatic access to a contacts database of user.
-Cloud Kit framework – Gives a medium for moving data between your app and iCloud.
-Core data Framework – Technology for managing the data model of a Model View Controller app.
-Core Foundation framework – Interfaces that gives fundamental data management and service features for iOS apps.
-Core Location framework – Gives location and heading information to apps.
-Core Motion Framework – Access all motion based data available on a device. Using this core motion framework Accelerometer based information can be accessed.
-Foundation Framework – Objective C covering too many of the features found in the Core Foundation framework
-Healthkit framework – New framework for handling health-related information of user
-Homekit framework – New framework for talking with and controlling connected devices in a user’s home.
-Social framework – Simple interface for accessing the user’s social media accounts.
-StoreKit framework – Gives support for the buying of content and services from inside your iOS apps, a feature known asIn-App Purchase.
-Learn about iOS graphics, core graphics framework, quartz core and more in our blog on iOS Graphics.
-3. Media Layer: Graphics, Audio and Video technology is enabled using the Media Layer.
- Graphics Framework:
-UIKit Graphics – It describes high level support for designing images and also used for animating the content of your views.
-Core Graphics framework – It is the native drawing engine for iOS apps and gives support for custom 2D vector and image based rendering.
-Core Animation – It is an initial technology that optimizes the animation experience of your apps.
-Core Images – gives advanced support for controling video and motionless images in a nondestructive way
-OpenGl ES and GLKit – manages advanced 2D and 3D rendering by hardware accelerated interfaces
-Metal – It permits very high performance for your sophisticated graphics rendering and computation works. It offers very low overhead access to the A7 GPU.
-Read these iOS Interview Questions to grab high-paying jobs!
+
+| Core Services Layer Features | Description |
+| --- | --- |
+| Address book framework | – Gives programmatic access to a contacts database of user. |
+Cloud Kit framework | – Gives a medium for moving data between your app and iCloud. |
+Core data Framework | – Technology for managing the data model of a Model View Controller app. |
+Core Foundation framework | – Interfaces that gives fundamental data management and service features for iOS apps. |
+Core Location framework | – Gives location and heading information to apps. |
+Core Motion Framework | – Access all motion based data available on a device. Using this core motion framework Accelerometer based information can be accessed. |
+Foundation Framework | – Objective C covering too many of the features found in the Core Foundation framework |
+Healthkit framework | – New framework for handling health-related information of user |
+Homekit framework | – New framework for talking with and controlling connected devices in a user’s home. |
+Social framework | – Simple interface for accessing the user’s social media accounts. |
+StoreKit framework | – Gives support for the buying of content and services from inside your iOS apps, a feature known asIn-App Purchase. |
+
+3. Media Layer
+Graphics, Audio and Video technology is enabled using the Media Layer.
+
+| Graphics Framework | Description |
+| --- | --- |
+| UIKit Graphics | – It describes high level support for designing images and also used for animating the content of your views. | 
+| Core Graphics framework | – It is the native drawing engine for iOS apps and gives support for custom 2D vector and image based rendering. |
+| Core Animation | – It is an initial technology that optimizes the animation experience of your apps. |
+| Core Images | – gives advanced support for controling video and motionless images in a nondestructive way |
+| OpenGl ES and GLKit | – manages advanced 2D and 3D rendering by hardware accelerated interfaces |
+| Metal | – It permits very high performance for your sophisticated graphics rendering and computation works. It offers very low overhead access to the A7 GPU. |
+
 Audio Framework:
 Media Player Framework – It is a high level framework which gives simple use to a user’s iTunes library and support for playing playlists.
 AV Foundation – It is an Objective C interface for handling the recording and playback of audio and video.
