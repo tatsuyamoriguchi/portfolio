@@ -92,15 +92,22 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 | OpenGl ES and GLKit | – manages advanced 2D and 3D rendering by hardware accelerated interfaces |
 | Metal | – It permits very high performance for your sophisticated graphics rendering and computation works. It offers very low overhead access to the A7 GPU. |
 
-Audio Framework:
-Media Player Framework – It is a high level framework which gives simple use to a user’s iTunes library and support for playing playlists.
-AV Foundation – It is an Objective C interface for handling the recording and playback of audio and video.
-OpenAL – is an industry standard technology for providing audio.
+4. Audio Framework
+| Audio Framework Features | Description |
+| --- | --- |
+| Media Player Framework | – It is a high level framework which gives simple use to a user’s iTunes library and support for playing playlists. |
+| AV Foundation | – It is an Objective C interface for handling the recording and playback of audio and video. |
+| OpenAL | – is an industry standard technology for providing audio. |
 
-Video Framework
-AV Kit – framework gives a collection of easy to use interfaces for presenting video.
-AV Foundation – gives advanced video playback and recording capability.
-Core Media – framework describes the low level interfaces and data types for operating media.
+5. Video Framework
+
+| Video Framework | Description |
+| --- | --- |
+| AV Kit | – framework gives a collection of easy to use interfaces for presenting video. |
+| AV Foundation | – gives advanced video playback and recording capability. |
+| Core Media | – framework describes the low level interfaces and data types for operating media. |
+
+
 Cocoa Touch Layer
 EventKit framework – gives view controllers for showing the standard system interfaces for seeing and altering calendar related events
 GameKit Framework – implements support for Game Center which allows users share their game related information online
