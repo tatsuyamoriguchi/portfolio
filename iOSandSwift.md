@@ -5,20 +5,31 @@ A partial list of iOS and Swift projects topics learned
 
 ## Software Development Lifecycle
 1. Planning
+* Feasibility Study: 
+  * Can this project actually be completed? On time? Within budget? with existing staff?
+  * Buy vs build?
 2. Requirement Analysis
+* Business rules
+* Security requirements
+* Use cases
+* Sample screen designs
+* Sample reports
+* Approve by the customer prior to design work
 3. Design
 * Business Rules
 * Layout
 * Color Scheme
+* Wireframe/sketch
 * Programming language to use
 * Frameworks, SDKs, APIs
 * Back-end system server design
-* Database design and relationship
+* Database design and relationship (data design)
 * App acchitecture
 * Mobile Devices, OS versions, browser, and other external software to support
 4. Implementation/Coding
 * Hardware Environment
 * Coding
+* Unit Test with TDD
 * Designers continue graphic design.
 * Testers start writing test plan, test scenarios, and test cases.
 5. Testing
@@ -28,6 +39,11 @@ A partial list of iOS and Swift projects topics learned
   * Resolved
   * Closed
   * Re-opened
+* CI(Circle CI)
+* Test Automation (Appium)
+* Types of tests
+* Device tests
+* Test Fight for beta testing
 6. Deployment
 * iOS app submission to the App Store
   * App name trade mark clearance
@@ -50,7 +66,11 @@ A partial list of iOS and Swift projects topics learned
   * App Store distribution provision profile
   * App Store distribution code signing identity
   * Screenshots (correct sizes based on devices)
-7. Maintenance
+* Deployment automation tool (i.e. Fastlane)
+* Enterprise distribution
+* StoreKit
+* (Test Fight)
+7. Operation and Maintenance
 * Monitor the server load
 * Collect and manage bugs reported by users via technical and customer support teams
 * Fix issues and make another release.
