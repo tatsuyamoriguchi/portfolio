@@ -127,7 +127,8 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 * Unit Test with TDD
 * Designers continue graphic design.
 * Testers start writing test plan, test scenarios, and test cases.
-5. Testing
+
+### 5. Testing
 * Bug Lifecycle
   * Open
   * In Progress
@@ -139,7 +140,8 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 * Types of tests
 * Device tests
 * Test Fight for beta testing
-6. Deployment
+
+### 6. Deployment
 * iOS app submission to the App Store
   * App name trade mark clearance
   * App name copyright clearance
