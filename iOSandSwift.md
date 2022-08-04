@@ -38,8 +38,9 @@ Architecture of IOS is a layered architecture. At the uppermost level iOS works 
 #### Core OS Layer:
 1. The Core OS layer holds the low level features that most other technologies are built upon.    
 
-| Core Bluetooth Framework |
+| Core OS Layer Features |
 | --- |
+| Core Bluetooth Framework |
 | Accelerate Framework |
 | External Accessory Framework |
 | Security Services framework |
@@ -77,6 +78,7 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 | Metal | – It permits very high performance for your sophisticated graphics rendering and computation works. It offers very low overhead access to the A7 GPU. |
 
 4. Audio Framework
+
 | Audio Framework Features | Description |
 | --- | --- |
 | Media Player Framework | – It is a high level framework which gives simple use to a user’s iTunes library and support for playing playlists. |
