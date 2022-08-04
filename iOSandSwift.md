@@ -167,7 +167,8 @@ Graphics, Audio and Video technology is enabled using the Media Layer.
 * Enterprise distribution
 * StoreKit
 * (Test Fight)
-7. Operation and Maintenance
+
+### 7. Operation and Maintenance
 * Monitor the server load
 * Collect and manage bugs reported by users via technical and customer support teams
 * Fix issues and make another release.
