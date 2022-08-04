@@ -11,22 +11,20 @@ Sleep Tracer is a tentative app name.
 ## Basic features and technologies to implement and learn
 - [ ] Software architecture and maintaining code quality -> MVVM
 - [ ] Front end development UI/UX design -> SwiftUI
-- [ ] Combine
-- [ ] Protocol Oriented Programming
-- [ ] Functional Programming
-- [ ] Enhance Debugging Technique
 - [ ] <a href="https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2">iOS App Performance: Instruments & beyond</a>
 - [ ] <a href="https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started ">Dependency Injection</a>
-- [ ] Write Test Plan, Test Scenarios, and Test cases
 - [ ] Unit Test with TDD
 - [ ] UI test
 - [ ] Integrate Circle CI.
 - [ ] GitHub
 - [x] Accessing HealthKit data (Respiratory reate)
 - [ ] Loading respiratory data from Apple Watch for testing purpose.
-- [ ] Analyze respiratory data with a threshold 
+- [x] Analyze respiratory data with a threshold 
 - [x] Research how respiratory data is recorded. What causes the time length variation between two measured points.
     * <a href="https://mashable.com/article/how-to-monitor-breathing-rate-apple-watch">How to monitor your breathing rate with Apple Watch</a>
     * <a href="https://www.sleepfoundation.org/sleep-apnea/sleep-respiratory-rate">Sleep Respiratory Rate</a>
     * Using its built-in accelerometer, the Apple Watch can track the number of breaths you take per minute while asleep.
 - [ ] Display an advice to make a appointment with a doctor nearby using Apple Maps' Nearby Points of Interest Searching
+- [ ] Implement Push Notification with CloudKit or Firebase.
+- [ ] Display sponsored listing when displaying Nearby Points
+- [ ] TBD: Add auto-schedule appointment with sponsors.
