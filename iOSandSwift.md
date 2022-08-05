@@ -324,3 +324,5 @@ Big-O	Name	Description
 ## iOS System Design
 
 ## Xcode, Github, Tools
+- [ ] <a href="https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2">iOS App Performance: Instruments & beyond</a>
+- [ ] <a href="https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started ">Dependency Injection</a>
