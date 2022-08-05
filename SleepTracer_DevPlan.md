@@ -11,8 +11,6 @@ Sleep Tracer is a tentative app name.
 ## Basic features and technologies to implement and learn
 - [ ] Software architecture and maintaining code quality -> MVVM
 - [ ] Front end development UI/UX design -> SwiftUI
-- [ ] <a href="https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2">iOS App Performance: Instruments & beyond</a>
-- [ ] <a href="https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started ">Dependency Injection</a>
 - [ ] Unit Test with TDD
 - [ ] UI test
 - [ ] Integrate Circle CI.
