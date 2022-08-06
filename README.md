@@ -18,6 +18,7 @@
 - Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
 - LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 - Tech Stack: Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion, etc.
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/brian_morig.svg?style=social&label=Follow%20%40brian_morig)](https://twitter.com/brian_morig)
 
 
 # Projects
