@@ -25,7 +25,16 @@ A partial list of iOS and Swift projects topics learned
 * Business Rules
 * Layout
 * Color Scheme
-* Wireframe/sketch
+* Wireframe/Sketch
+  * <a href="https://youtube.com/playlist?list=PLy_5EGmtPAJx-HXQXAYa3O4YFkFbq2-v7">Justinmind Prototyping Onboarding Videos</a>
+  * <a href="https://youtu.be/VRf8cyeuxoo">Designing an App in Figma</a> 
+  1. Low-Fidelity Prototype: Basic navigation and features without UI style
+  ![IMG_1119](https://user-images.githubusercontent.com/25876806/183476113-6fd9a429-b070-4292-8800-3593886ec145.PNG)
+  2. Add Interaction Design: Scrolling, Tabbed menus, Accordions, parallax scrolling, etc.
+  3. Advanced UI design: More branding features, color paletts, color gradients, typography, element spacing and positioning
+  4. Prototyping Forms: Interactive forms: Conditional actions and inline validations, error message
+  5. Data Visualization: The forms of lists, filtering, sorting
+  ![IMG_1120](https://user-images.githubusercontent.com/25876806/183476132-33da1527-85db-4afd-8973-11a467f32e30.PNG)
 * Programming language to use
 * Frameworks, SDKs, APIs
 * Back-end system server design
