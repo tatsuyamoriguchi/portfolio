@@ -21,7 +21,6 @@
 - Tech Stack: Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion, etc.
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/brian_morig.svg?style=social&label=Follow%20%40brian_morig)](https://twitter.com/brian_morig)
 
-
 # Projects
 ## Sleep Tracer (Current Project)
 * Detect the possibility of a user’s sleep disorder symptom with Apple Watch pairing with iOS devices
