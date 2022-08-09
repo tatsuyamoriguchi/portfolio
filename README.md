@@ -1,6 +1,7 @@
 # <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
 
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page</a>: https://tatsuyamoriguchi.github.io/portfolio/ You're here.
+* [Go to CS/Swift Fundamentals](Create CS_Swift_Fundamentals.md)
 * [Go to iOS and Swift Page](iOSandSwift.md)
 * [Go to Mobile App QA Engineering Topics](mobileAppQA.md)
 * [Go to Sleep Tracer Product Requirements](SleepTracer_Requirements.md)
