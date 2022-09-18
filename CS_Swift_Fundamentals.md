@@ -1,5 +1,115 @@
 < [Back to Portfolio Page](README.md)
 # CS/Swift Fundamentals
+
+## <a href = "https://github.com/raywenderlich/swift-algorithm-club/tree/master/Insertion%20Sort">Insertion Sort</a>
+Goal: Sort an array from low to high (or high to low).
+
+* You are given an array of numbers and need to put them in the right order. The insertion sort algorithm works as follows:
+
+1. Put the numbers on a pile. This pile is unsorted.
+2. Pick a number from the pile. It doesn't really matter which one you pick, but it's easiest to pick from the top of the pile.
+3. Insert this number into a new array.
+4. Pick the next number from the unsorted pile and also insert that into the new array. It either goes before or after the first number you picked, so that now these two numbers are sorted.
+5. Again, pick the next number from the pile and insert it into the array in the proper sorted position.
+6. Keep doing this until there are no more numbers on the pile. You end up with an empty pile and an array that is sorted.
+
+```
+func insertionSort(_ array: [Int]) -> [Int] {
+    var sortedArray = array			 // 1
+    for index in 1..<sortedArray.count {		 // 2
+        var currentIndex = index
+        while currentIndex > 0 && sortedArray[currentIndex] < sortedArray[currentIndex - 1] { // 3
+            sortedArray.swapAt(currentIndex - 1, currentIndex)
+            currentIndex -= 1
+        }
+    }
+    return sortedArray
+}
+```
+Here is how the code works.
+
+Make a copy of the array. This is necessary because we cannot modify the contents of the array parameter directly. Like Swift's own sorted(), the insertionSort() function will return a sorted copy of the original array.
+
+There are two loops inside this function. The outer loop looks at each of the elements in the array in turn; this is what picks the top-most number from the pile. The variable currentIndex is the index of where the sorted portion ends and the pile begins (the position of the | bar). Remember, at any given moment the beginning of the array -- from index 0 up to currentIndex -- is always sorted. The rest, from index currentIndex until the last element, is the unsorted pile.
+
+The inner loop looks at the element at position currentIndex. This is the number at the top of the pile, and it may be smaller than any of the previous elements. The inner loop steps backwards through the sorted array; every time it finds a previous number that is larger, it swaps them. When the inner loop completes, the beginning of the array is sorted again, and the sorted portion has grown by one element.
+
+Note: The outer loop starts at index 1, not 0. Moving the very first element from the pile to the sorted portion doesn't actually change anything, so we might as well skip it.
+
+### No More Swap
+
+Instead of swapping with each of the previous elements, we can just shift all those elements one position to the right, and then copy the new number into the right position.
+
+```
+[ 3, 5, 8, 4 | 6 ]   remember 4
+           *
+
+[ 3, 5, 8, 8 | 6 ]   shift 8 to the right
+        --->
+        
+[ 3, 5, 5, 8 | 6 ]   shift 5 to the right
+     --->
+     
+[ 3, 4, 5, 8 | 6 ]   copy 4 into place
+     *
+```
+In code that looks like this:
+
+```
+func insertionSort(_ array: [Int]) -> [Int] {
+  var sortedArray = array
+  for index in 1..<sortedArray.count {
+    var currentIndex = index
+    let temp = sortedArray[currentIndex]
+    while currentIndex > 0 && temp < sortedArray[currentIndex - 1] {
+      sortedArray[currentIndex] = sortedArray[currentIndex - 1]                // 1
+      currentIndex -= 1
+    }
+    sortedArray[currentIndex] = temp                      // 2
+  }
+  return sortedArray
+}
+```
+The line at //1 is what shifts up the previous elements by one position. At the end of the inner loop, y is the destination index for the new number in the sorted portion, and the line at //2 copies this number into place.
+
+### Making it generic
+```
+func insertionSort<T>(_ array: [T], _ isOrderedBefore: (T, T) -> Bool) -> [T] {
+  var sortedArray = array
+  for index in 1..<sortedArray.count {
+      var currentIndex = index
+      let temp = sortedArray[currentIndex]
+      while currentIndex > 0 && temp < sortedArray[currentIndex - 1] {
+        sortedArray[currentIndex] = sortedArray[currentIndex - 1]                // 1
+        currentIndex -= 1
+      }
+      sortedArray[currentIndex] = temp                      // 2
+    }
+    return sortedArray
+ }
+```
+```
+let numbers = [ 10, -1, 3, 9, 2, 27, 8, 5, 1, 3, 0, 26 ]
+insertionSort(numbers, <)
+insertionSort(numbers, >)
+```
+
+```
+let objects = [ obj1, obj2, obj3, ... ]
+insertionSort(objects) { $0.priority < $1.priority }
+```
+if two objects have the same priority, regardless of the values of their other properties, those two objects don't get swapped around.
+
+### Performance
+The worst-case and average case performance of insertion sort is O(n^2). That's because there are two nested loops in this function. Other sort algorithms, such as quicksort and merge sort, have O(n log n) performance, which is faster on large inputs.
+
+Insertion sort is actually very fast for sorting small arrays. Some standard libraries have sort functions that switch from a quicksort to insertion sort when the partition size is 10 or less.
+
+
+
+
+
+
 ## <a href="https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue">Queue</a>
 * A queue is a list where you can only insert new items at the back and remove items from the front.
 * A queue gives you a FIFO or first-in, first-out order. The element you inserted first is the first one to come out.
