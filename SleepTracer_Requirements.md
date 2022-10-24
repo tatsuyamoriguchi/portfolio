@@ -138,7 +138,7 @@
 
 
 ### Installtion and Launch Requirements
-* Since 1st realease, no version update is necessary.
+* Since 1st release, no version update is necessary.
 * Install the app via the App Store
 
 
@@ -202,10 +202,10 @@
 * Screenshots (correct sizes based on devices)
 
 ## Marketing Resouces
-* Marketing regions
-* App web site
-* SNS channels to promote
-* SEO
-* SNS/Web site ad
-* Analytic method
-* Media promotion
+* Marketing regions: United States
+* App web site: To be decided
+* SNS channels to promote: Facebook, Twitter, YouTube
+* SEO: Google
+* SNS/Web site ad: To be decided
+* Analytic method: To be decided
+* Media promotion: To be decided
