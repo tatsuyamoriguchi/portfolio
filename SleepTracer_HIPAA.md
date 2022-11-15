@@ -11,4 +11,21 @@ Protected Health Information (PHI) is the personally identifiable health informa
 
 Business Associates are the companies and third parties that manage protected health data on behalf of covered entities in the process of providing service to patients. Business associates include the application developers building new apps for Apple’s HealthKit, hosting providers that handle PHI, and other offline service providers. If you’re building an application that handles, or could handle PHI, you are considered by law - whether you want to be or not - a Business Associate.
 
+HIPAA does not have a recognized third party certification entity. While compliance is required, HIPAA states that application creators alone are responsible for ensuring compliance with the law. There are companies that will certify companies as HIPAA compliant, but their certification is not legally recognized as proof of compliance. 
 
+there is no ‘safe harbor’ provision for the inclusion of protected health information in an application. Even if an application isn’t designed to collect or share personal health information the developer is still responsible for it if PHI makes its way into the application. 
+
+## The Required Safeguards for Applications
+
+HIPAA requires three types of data safeguards under the HIPAA Security Rule. These aren’t either/or. Applications subject to HIPAA oversight need to be compliant in all three areas: administrative, physical, and technical. 
+
+Administrative safeguards refer to the documented policies, procedures, training, and operational roles that are documented and maintained to limit access to protected health information only to essential staff. 
+
+Physical safeguards are the data protection measures that limit access to hosting facilities, racks and servers, as well as mandate the data redundancy and media destruction required to ensure access and protection of PHI. A HIPAA compliant hosting provider usually covers these requirements.
+
+Technical safeguards are the application-specific measures that developers will most likely deal with. They include things like data encryption and decryption, logging and data audits, user authentication, data transmission integrity and more.
+
+## Things to Consider When Developing for HealthKit
+
+
+[Resources for Mobile Health Apps Developers](https://www.hhs.gov/hipaa/for-professionals/special-topics/health-apps/index.html)
