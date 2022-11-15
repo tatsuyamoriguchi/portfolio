@@ -27,5 +27,9 @@ Technical safeguards are the application-specific measures that developers will 
 
 ## Things to Consider When Developing for HealthKit
 
+The very first thing is to determine whether the application will or may eventually collect or share PHI. Remember, apps can collect consumer health information and not require HIPAA compliance. It’s only when PHI will be shared with a covered entity that it becomes subject to HIPAA compliance. 
+
+* Types of health data: no need to compliant to HIPAA for calory tracker and pedometer data, but glucose level has to be HIPAA compliant.
+* Messaging application sending and receiving any user's PHI 
 
 [Resources for Mobile Health Apps Developers](https://www.hhs.gov/hipaa/for-professionals/special-topics/health-apps/index.html)
