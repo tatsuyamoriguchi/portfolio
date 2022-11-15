@@ -31,5 +31,12 @@ The very first thing is to determine whether the application will or may eventua
 
 * Types of health data: no need to compliant to HIPAA for calory tracker and pedometer data, but glucose level has to be HIPAA compliant.
 * Messaging application sending and receiving any user's PHI 
+* iOS notifications and user communication: don’t publish PHI to push notifications, email, and SMS.
+* Never share PHI with HIPAA non-compliant applications.
+* High availability and redundancy
+* Remote data management: Can the app wipe PHI from local storage on the phone in case the phone is lost?
+* Even if the application does handle PHI, not all of the data needs to be stored in a HIPAA compliant environment. PHI can be sent to and stored with a compliant host, while non-PHI data is managed in a traditional application database.
+* simply using a HIPAA compliant hosting provider for the application data does not make a HealthKit-enabled application HIPAA compliant.
+
 
 [Resources for Mobile Health Apps Developers](https://www.hhs.gov/hipaa/for-professionals/special-topics/health-apps/index.html)
