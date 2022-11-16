@@ -1,7 +1,6 @@
 # Mobile App Development Lifecycle
 
-## References
-[Mobile Application Development Lifecycle: 5 Key Phases](https://blog.kms-solutions.asia/mobile-app-development-lifecycle)
+References [Mobile Application Development Lifecycle: 5 Key Phases](https://blog.kms-solutions.asia/mobile-app-development-lifecycle)
 
 1. Inception - Every software begins with a concept. Typically, such a concept is evolved into a strong foundation for an application.
 2. Design - The design phase include establishing the app's User Experience (UX), such as the overall layout, how it operates, and so on, as well as translating that UX into a good User Interface (UI) design, which is generally done with the assistance of a graphic designer.
