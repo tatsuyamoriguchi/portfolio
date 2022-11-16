@@ -58,3 +58,22 @@ In reality, once an idea has matured in the conceptual/inspiration phase, a func
 
 
 
+# How long does it take to make an app?
+Reference: [Mobile App Development Life Cycle Explained!](https://www.claysys.com/blog/mobile-app-development-life-cycle/)
+
+## Planning stage (First 2-3 weeks)  
+## Business Analysis Stage (2-3 weeks) 
+build and set up the outline of the project. The business analysis stage also considers the purpose, usage, and implementation of the app. This involves studying the competitors, the size of the market, demographics, and success parameters. 
+## Design and Pre-development stage (5-7 weeks) 
+the initial stage in app development as you develop the basic concept, the design, and other relevant elements including the graphics, UI layout (user Interface), and color schemes
+## UI-Design stage (3-4 weeks) 
+User Interface designing involves deciding the colors, fonts, and images for your app that attracts the target audience once the app is launched.
+## Development stage (8-10 weeks) 
+UI design, front-end development, and back-end development
+## Testing Stage (2 weeks) 
+## Finalization and launch (1 week) 
+receive feedback from beta testers on making improvements to the app. 
+## Post-launch support and maintenance stage (2 weeks) 
+identify and fix any bugs or glitches or to update features in your app that do not perform properly. The post-launch support and maintenance phase is crucial as it also gives the idea to bring a marketing strategy to increase the success rate of the app. 
+ 
+ 
