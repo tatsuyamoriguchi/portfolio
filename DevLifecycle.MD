@@ -49,7 +49,11 @@ In reality, once an idea has matured in the conceptual/inspiration phase, a func
 * Beta — The majority of the functionality is now complete, and it has undergone some light testing and problem fixes. Major flaws that have been identified may still exist.
 * Release Candidate: All functionality has been tested and is complete. The software is ready to be released into the world, barring any additional issues.
 
+## Distribution
 
+* Apple App Store - The App Store, which is integrated into Mac OS X via iTunes, is a worldwide accessible online program repository. It's by far the most common form of app distribution, allowing developers to sell and distribute their programs online with minimal effort.
+* In-House Deployment — This method is used for the internal distribution of company programs that aren't published on the App Store.
+* Ad-Hoc Deployment — Ad-hoc deployment is used for development and testing, and it allows you to deploy to a small number of fully supplied devices. Ad-hoc deployment is what happens when you use Xcode or Visual Studio for Mac to deploy to a device.
 
 
 
