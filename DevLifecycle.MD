@@ -11,7 +11,8 @@
 
 Many of these parts often overlap
 
-## Before submitting an app to one of the public App Stores, keep the following points in mind:
+## Inception
+Before submitting an app to one of the public App Stores, keep the following points in mind:
 
 Are there any similar apps presently on the market? If that's the case, how does this software differ from others?
 In the case of apps that will be distributed within an organization:
