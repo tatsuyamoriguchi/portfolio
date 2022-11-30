@@ -23,6 +23,21 @@ A partial list of iOS and Swift projects topics learned
 
 ### 3. Design
 * Business Rules
+* UX Design
+  * About designing the whole experience 
+  * Helps to decide what features, what things would be in the product and how they work and how you feel while you're using them
+  * Example: Help understand new ways for peope to listen to music
+  * Start with understanding poeple, customers, consepting, work, shopping, try to solve the user's problems, improve the user's experiences. 
+  * Spotify expamples: How playlists work, what people want out of playlists, how many songs sholud be in a playlist, how do we get more musinc into the playlist.
+  * Responsible for the overall experience, Understanding the users, Contribute solutions that improve the suer experience
+* UI Design
+  * About the aesthetic experience
+  * About how things look as ou're using them, how much space there is between things, how they're laid out, how much information is on each screen, and where to put things so it's easy for you to click on.
+  * Example: Visually represent those new ways of listening in a way that was easy for people to use.
+  * Creates the clear visual representation of all of concepts of User Experiences
+  * Spotify examples: Highlight the name of the song in green that's playing, display the controller with a pause button
+  * Visually representing user experience concepts and ideas
+  * Typography, lettering, the colors, style and branding, spacing, boldness, number of items on a screen, icons and images
 * Layout
 * Color Scheme
 * Wireframe/Sketch
