@@ -1,4 +1,4 @@
-# <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a>
+# <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio</a> Marketing and Support Page for Published Apps
 
 * <a href="https://tatsuyamoriguchi.github.io/portfolio/">Portfolio Page</a>: https://tatsuyamoriguchi.github.io/portfolio/ You're here.
 * [Go to CS/Swift Fundamentals](CS_Swift_Fundamentals.md)
