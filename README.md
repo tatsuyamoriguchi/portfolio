@@ -7,6 +7,7 @@
 * [Go to Documentation, Presentation, Agile, Team Work Page]
 
 ## Tatsuya "Brian" Moriguchi
+- To contact me, please send me your message at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/brian_morig.svg?style=social&label=Follow%20%40brian_morig)](https://twitter.com/brian_morig) or LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 - Irvine, California U.S.A.
 - iOS Developer with software localization, QA, technical support, management, and business background
 - Strong interest in medical/healthcare, IoT or AI technology company making direct impact on existing businesses and social infrastructure.
@@ -15,7 +16,6 @@
 - Better fit into startup's early stage of iOS app development such as creating MVP, and small team rather than working for a large team and code base
 - Github: <a href="https://github.com/tatsuyamoriguchi">https://github.com/tatsuyamoriguchi</a>
 - Tech Stack: Xcode, Swift 3-5, iOS, watchOS, MacOS, Git, UIKit, SwiftUI, REST API, CloudKit, Firebase, HealthKit, Core Data, Core Location, Core Motion, etc.
-- To contact me, please send me your message at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/brian_morig.svg?style=social&label=Follow%20%40brian_morig)](https://twitter.com/brian_morig) or LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 
 # Projects
 ## Sleep Tracer (Current Project)
