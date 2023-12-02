@@ -8,7 +8,7 @@
 * [Go to Documentation, Presentation, Agile, Team Work Page]
 
 ## Tatsuya "Brian" Moriguchi
-- To contact me, please send me your message at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/brian_morig.svg?style=social&label=Follow%20%40brian_morig)](https://twitter.com/brian_morig) or LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
+- To contact me, please send me your message at LinkedIn: <a href="https://linkedin.com/in/sigabrt">https://linkedin.com/in/sigabrt</a>
 - Irvine, California U.S.A.
 - iOS Developer with software localization, QA, technical support, management, and business background
 - Strong interest in medical/healthcare, IoT or AI technology company making direct impact on existing businesses and social infrastructure.
